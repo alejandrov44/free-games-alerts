@@ -6,7 +6,7 @@ import {
   REST as DiscordRestClient,
   Routes,
 } from "discord.js";
-import { InteractionHandler } from "./handler";
+import { InteractionHandler } from "./bot/handler";
 import envs from "./environment";
 
 class MangaTrackerApplication {
