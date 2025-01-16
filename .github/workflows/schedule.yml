@@ -1,0 +1,28 @@
+# name: Run Weekly Script
+# on:
+#   schedule:
+#     - cron: '0 15 * * 5' # Every Friday at 15:00 UTC
+# jobs:
+#   run-script:
+#     runs-on: ubuntu-latest
+
+#     strategy:
+#       matrix:
+#         node-version: [20]
+
+#     steps:
+#     - run: echo "🎉 The job was triggered by a ${{ github.event_name }} event. With inputs ${{ toJson(inputs) }}."
+
+#     - name: Use Node.js ${{ matrix.node-version }}
+#       uses: actions/setup-node@v4
+#       with:
+#         node-version: ${{ matrix.node-version }}
+
+#     - name: Checkout discord-free-games-bot
+#       uses: actions/checkout@v4
+
+#     - name: Install dependencies
+#       run: npm install
+
+#     - name: Run send_free_games script
+#       run: npm run send_free_games

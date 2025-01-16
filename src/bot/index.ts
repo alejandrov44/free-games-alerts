@@ -6,10 +6,10 @@ import {
   REST as DiscordRestClient,
   Routes,
 } from "discord.js";
-import { InteractionHandler } from "./bot/handler";
-import envs from "./environment";
+import { InteractionHandler } from "./handler";
+import envs from "../environment";
 
-class MangaTrackerApplication {
+class FreeGameTrackerApplication {
   private client: Client;
   private discordRestClient: DiscordRestClient;
   private interactionHandler: InteractionHandler;
@@ -62,5 +62,5 @@ class MangaTrackerApplication {
   }
 }
 
-const app = new MangaTrackerApplication();
+const app = new FreeGameTrackerApplication();
 app.start();

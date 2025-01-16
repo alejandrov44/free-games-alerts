@@ -1,5 +1,5 @@
 import dotenv from 'dotenv';
-import { validatDiscordClientId, validateDiscordToken } from './utils';
+import { validatDiscordClientId, validateDiscordToken } from './bot/utils';
 dotenv.config();
 
 interface EnvironmentVariables {
