@@ -14,6 +14,6 @@ export const sendWebhook = async (body: DiscordWebhookPayload): Promise<void> =>
 export const formatGamesForWebhook = (gamesList: Game[]): string => {
   if (gamesList.length === 0) return "No games to display.";
   return gamesList
-    .map((game, index) => `**${index + 1}. ${game.title}**\n${game.description}\n[View Product](${game.productUrl})\n`)
+    .map((game, index) => `**${index + 1}. ${game.title}**${game.description}\n[View Product](${game.productUrl})\n`)
     .join("\n");
 };

@@ -12,7 +12,7 @@ export const fetchFreeGogGames = async (): Promise<Game[]> => {
   const games = offers.map((offer) => {
     const game: Game = {
       title: offer.title,
-      description: undefined,
+      description: "",
       imageUrl: offer.coverHorizontal,
       productUrl: offer.storeLink,
     };
