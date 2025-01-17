@@ -1,20 +1,20 @@
 import dotenv from 'dotenv';
-import { validatDiscordClientId, validateDiscordToken } from './bot/utils';
+import { validatDiscordWebhookId, validateDiscordWebhookToken } from './utils';
 dotenv.config();
 
 interface EnvironmentVariables {
-  discordToken: string;
-  discordClientId: string;
+  discordWebhookToken: string;
+  discordWebhookId: string;
 }
 
 enum EnvVariables {
-  discordToken = "DISCORD_TOKEN",
-  discordClientId = "DISCORD_CLIENT_ID",
+  discordWebhookToken = "DISCORD_WEBHOOK_TOKEN",
+  discordWebhookId = "DISCORD_WEBHOOK_ID",
 }
 
 const envValidations = {
-  [EnvVariables.discordToken]: validateDiscordToken,
-  [EnvVariables.discordClientId]: validatDiscordClientId,
+  [EnvVariables.discordWebhookToken]: validateDiscordWebhookToken,
+  [EnvVariables.discordWebhookId]: validatDiscordWebhookId,
 };
 
 const envs = {} as EnvironmentVariables;

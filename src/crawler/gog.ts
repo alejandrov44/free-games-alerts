@@ -1,3 +1,4 @@
+import { GamePlatforms } from "../enums";
 import { Game } from "../interfaces";
 import { getApiRequest, HeaderTypes } from "../requests";
 
@@ -11,10 +12,12 @@ export const fetchFreeGogGames = async (): Promise<Game[]> => {
   const offers = response.products;
   const games = offers.map((offer) => {
     const game: Game = {
+      platform: GamePlatforms.Gog,
       title: offer.title,
       description: "",
       imageUrl: offer.coverHorizontal,
       productUrl: offer.storeLink,
+      endDateDiscount: undefined,
     };
     return game;
   });

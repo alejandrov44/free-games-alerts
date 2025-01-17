@@ -1,3 +1,4 @@
+import { GamePlatforms } from "../enums";
 import { Game } from "../interfaces";
 import { getApiRequest, HeaderTypes } from "../requests";
 
@@ -13,10 +14,12 @@ export const fetchFreeEpicGames = async (): Promise<Game[]> => {
   .filter((offer) => offer.promotions?.promotionalOffers[0]?.promotionalOffers[0].discountSetting.discountPercentage === 0)
   .map((offer) => {
     const game: Game = {
+      platform: GamePlatforms.Epic,
       title: offer.title,
       description: offer.description,
       imageUrl: offer.keyImages[0].url,
-      productUrl: `https://store.epicgames.com/es-ES/p/${offer.urlSlug}`,
+      productUrl: `https://store.epicgames.com/es-ES/p/${offer.catalogNs.mappings[0].pageSlug}`,
+      endDateDiscount: new Date(offer.promotions.promotionalOffers[0].promotionalOffers[0].endDate),
     };
     return game;
   });

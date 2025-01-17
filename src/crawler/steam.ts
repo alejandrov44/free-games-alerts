@@ -1,3 +1,4 @@
+import { GamePlatforms } from "../enums";
 import { Game } from "../interfaces";
 import { getHTMLRequest, HeaderTypes } from "../requests";
 
@@ -12,10 +13,12 @@ export const fetchSteamGames = async (): Promise<Game[]> => {
   const games = $games.map((index, element) => {
     const item = $(element);
     const game: Game = {
+      platform: GamePlatforms.Steam,
       title: item.attr("href")!,
       description: item.attr("href")!,
       imageUrl: item.attr("href")!,
       productUrl: `https://store.epicgames.com/es-ES/p/${item.attr("href")!}`,
+      endDateDiscount: undefined,
     };
     return game;
   }).get();

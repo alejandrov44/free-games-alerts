@@ -7,7 +7,7 @@
     "dev": "tsx watch src/index.ts",
     "start": "node dist/index.js",
     "build": "tsup src/index.ts --minify",
-    "send_free_games": "tsx src/notification/index.ts"
+    "send_free_games_alert": "tsx src/notification/index.ts"
   },
   "author": "alejandrov44",
   "license": "ISC",

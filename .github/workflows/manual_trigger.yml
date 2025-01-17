@@ -1,7 +1,17 @@
-name: Run Weekly Script
+name: Manual trigger alarm
+
 on:
-  schedule:
-    - cron: '0 15 * * 5' # Every Friday at 15:00 UTC
+  workflow_dispatch:
+    inputs:
+      ENV_VAR_1:
+        description: "DISCORD_WEBHOOK_TOKEN"
+        required: true
+        default: "<DISCORD_WEBHOOK_TOKEN>"
+      ENV_VAR_2:
+        description: "DISCORD_WEBHOOK_ID"
+        required: true
+        default: "<DISCORD_WEBHOOK_ID>"
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
@@ -26,6 +36,6 @@ jobs:
 
     - name: Run send_free_games_alert script
       env:
-        DISCORD_WEBHOOK_TOKEN: ${{ secrets.DISCORD_WEBHOOK_TOKEN }}
-        DISCORD_WEBHOOK_ID: ${{ secrets.DISCORD_WEBHOOK_ID }}
+        DISCORD_WEBHOOK_TOKEN: ${{ github.event.inputs.DISCORD_WEBHOOK_TOKEN }}
+        DISCORD_WEBHOOK_ID: ${{ github.event.inputs.DISCORD_WEBHOOK_ID }}
       run: npm run send_free_games_alert
