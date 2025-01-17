@@ -15,6 +15,9 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK_TOKEN: ${{ github.event.inputs.DISCORD_WEBHOOK_TOKEN }}
+      DISCORD_WEBHOOK_ID: ${{ github.event.inputs.DISCORD_WEBHOOK_ID }}
 
     strategy:
       matrix:
@@ -35,7 +38,4 @@ jobs:
       run: npm install
 
     - name: Run send_free_games_alert script
-      env:
-        DISCORD_WEBHOOK_TOKEN: ${{ github.event.inputs.DISCORD_WEBHOOK_TOKEN }}
-        DISCORD_WEBHOOK_ID: ${{ github.event.inputs.DISCORD_WEBHOOK_ID }}
       run: npm run send_free_games_alert
