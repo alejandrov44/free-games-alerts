@@ -3,18 +3,21 @@ name: Manual trigger alarm
 on:
   workflow_dispatch:
     inputs:
-      ENV_VAR_1:
-        description: "DISCORD_WEBHOOK_TOKEN"
+      DISCORD_WEBHOOK_TOKEN:
+        description: "The token that is needed to make calls to the webhook of discord."
         required: true
         default: "<DISCORD_WEBHOOK_TOKEN>"
-      ENV_VAR_2:
-        description: "DISCORD_WEBHOOK_ID"
+      DISCORD_WEBHOOK_ID:
+        description: "The id that points to the webhook of discord that you want to make the call."
         required: true
         default: "<DISCORD_WEBHOOK_ID>"
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK_TOKEN: ${{ github.event.inputs.DISCORD_WEBHOOK_TOKEN }}
+      DISCORD_WEBHOOK_ID: ${{ github.event.inputs.DISCORD_WEBHOOK_ID }}
 
     strategy:
       matrix:
@@ -33,12 +36,6 @@ jobs:
 
     - name: Install dependencies
       run: npm install
-
-    - name: create env file
-      run: |
-        touch .env
-        echo DISCORD_WEBHOOK_TOKEN=${{ github.event.inputs.DISCORD_WEBHOOK_TOKEN }} >> .env
-        echo DISCORD_WEBHOOK_ID=${{ github.event.inputs.DISCORD_WEBHOOK_ID }} >> .env
 
     - name: Run send_free_games_alert script
       run: npm run send_free_games_alert
