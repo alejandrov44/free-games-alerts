@@ -4,19 +4,18 @@ on:
   workflow_dispatch:
     inputs:
       DISCORD_WEBHOOK_TOKEN:
-        description: "The token that is needed to make calls to the webhook of discord."
+        description: "DISCORD_WEBHOOK_TOKEN"
         required: true
-        default: "<DISCORD_WEBHOOK_TOKEN>"
+        type: string
       DISCORD_WEBHOOK_ID:
-        description: "The id that points to the webhook of discord that you want to make the call."
+        description: "DISCORD_WEBHOOK_ID"
         required: true
-        default: "<DISCORD_WEBHOOK_ID>"
+        type: string
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
     env:
-      DISCORD_WEBHOOK_TOKEN: ${{ github.event.inputs.DISCORD_WEBHOOK_TOKEN }}
       DISCORD_WEBHOOK_ID: ${{ github.event.inputs.DISCORD_WEBHOOK_ID }}
 
     strategy:
@@ -36,6 +35,12 @@ jobs:
 
     - name: Install dependencies
       run: npm install
+
+    - name: Mask tokens
+      run: |
+        DISCORD_WEBHOOK_TOKEN=$(jq -r '.inputs.DISCORD_WEBHOOK_TOKEN' $GITHUB_EVENT_PATH)
+        echo ::add-mask::$DISCORD_WEBHOOK_TOKEN
+        echo DISCORD_WEBHOOK_TOKEN=$DISCORD_WEBHOOK_TOKEN >> $GITHUB_ENV
 
     - name: Run send_free_games_alert script
       run: npm run send_free_games_alert
