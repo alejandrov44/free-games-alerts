@@ -15,8 +15,6 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
-    env:
-      DISCORD_WEBHOOK_ID: ${{ github.event.inputs.DISCORD_WEBHOOK_ID }}
 
     strategy:
       matrix:
@@ -41,6 +39,9 @@ jobs:
         DISCORD_WEBHOOK_TOKEN=$(jq -r '.inputs.DISCORD_WEBHOOK_TOKEN' $GITHUB_EVENT_PATH)
         echo ::add-mask::$DISCORD_WEBHOOK_TOKEN
         echo DISCORD_WEBHOOK_TOKEN=$DISCORD_WEBHOOK_TOKEN >> $GITHUB_ENV
+        DISCORD_WEBHOOK_ID=$(jq -r '.inputs.DISCORD_WEBHOOK_ID' $GITHUB_EVENT_PATH)
+        echo ::add-mask::$DISCORD_WEBHOOK_ID
+        echo DISCORD_WEBHOOK_ID=$DISCORD_WEBHOOK_ID >> $GITHUB_ENV
 
     - name: Run send_free_games_alert script
       run: npm run send_free_games_alert
