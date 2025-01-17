@@ -15,9 +15,6 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
-    env:
-      DISCORD_WEBHOOK_TOKEN: ${{ github.event.inputs.DISCORD_WEBHOOK_TOKEN }}
-      DISCORD_WEBHOOK_ID: ${{ github.event.inputs.DISCORD_WEBHOOK_ID }}
 
     strategy:
       matrix:
@@ -36,6 +33,12 @@ jobs:
 
     - name: Install dependencies
       run: npm install
+
+    - name: create env file
+      run: |
+        touch .env
+        echo DISCORD_WEBHOOK_TOKEN=${{ github.event.inputs.DISCORD_WEBHOOK_TOKEN }} >> .env
+        echo DISCORD_WEBHOOK_ID=${{ github.event.inputs.DISCORD_WEBHOOK_ID }} >> .env
 
     - name: Run send_free_games_alert script
       run: npm run send_free_games_alert
