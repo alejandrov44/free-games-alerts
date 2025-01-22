@@ -2,6 +2,7 @@ import { CheerioAPI, load } from "cheerio";
 
 export enum HeaderTypes {
   contentType = "content-type",
+  cookie = "cookie",
 }
 
 interface Header {
