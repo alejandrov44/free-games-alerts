@@ -45,5 +45,5 @@ export const postRequest = async (url: string, body: BodyInit, headers?: Header[
   };
   const response = await fetch(url, fetchConfig);
   // eslint-disable-next-line no-console
-  console.log(response);
+  if (!response.ok) console.log(response);
 };
