@@ -1,7 +1,6 @@
-import freeGamesList from "../crawler/index"
-import { DiscordWebhookPayload } from "./interfaces";
+import freeGamesList from "../crawler/index";
 import { sendDiscordWebhook } from "./webhook";
 
-(async () => {
+await (async () => {
   await sendDiscordWebhook(await freeGamesList);
 })();

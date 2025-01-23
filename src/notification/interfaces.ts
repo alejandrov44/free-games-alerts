@@ -5,7 +5,7 @@ export interface DiscordWebhookPayload {
   tts?: boolean; // If true, sends the message as a text-to-speech message
   embeds?: Embed[]; // Array of embed objects (up to 10)
   allowed_mentions?: AllowedMentions; // Controls mentions in the message
-  components?: any; // Controls mentions in the message
+  components?: unknown; // Controls mentions in the message
 }
 
 interface Embed {

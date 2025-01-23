@@ -1,5 +1,5 @@
-import dotenv from 'dotenv';
-import { validatDiscordWebhookId, validateDiscordWebhookToken } from './utils';
+import dotenv from "dotenv";
+import { validatDiscordWebhookId, validateDiscordWebhookToken } from "./utils";
 dotenv.config();
 
 interface EnvironmentVariables {
@@ -20,7 +20,7 @@ const envValidations = {
 const envs = {} as EnvironmentVariables;
 
 Object.keys(EnvVariables).forEach((key) => {
-  const variable = EnvVariables[key];
+  const variable = EnvVariables[key] as EnvVariables;
   if (!process.env[variable]) throw new Error(`Environment Variable -> ${variable} is required`);
   envs[key] = envValidations[variable](process.env[variable]);
 });
