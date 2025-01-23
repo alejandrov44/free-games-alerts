@@ -43,5 +43,5 @@ export const postRequest = async (url: string, body: BodyInit, headers?: Header[
     body,
   };
   const response = await fetch(url, fetchConfig);
-  // console.log(response);
+  console.log(response);
 };
