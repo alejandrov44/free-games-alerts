@@ -41,7 +41,6 @@ export const fetchSteamGameInfo = async (gameUrl: string): Promise<Game> => {
 export const getSteamEndOfferDay = (rawDateText: string): Date => {
   const regex = /^.*?(\d+).*?(\w{3}).*?(\d+).*?$/m;
   const dateObject = regex.exec(rawDateText);
-  console.log({regex, rawDateText, dateObject})
   const date = `2025-${Months[dateObject[2]]}-${dateObject[1]}T${dateObject[3]}:00:00.000Z`
   return new Date(date);
 };
