@@ -7,7 +7,7 @@
     "send_free_games_alert": "npx ts-node src/notification/index.ts"
   },
   "author": "alejandrov44",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@eslint/js": "^9.18.0",
     "@types/node": "^22.10.10",
