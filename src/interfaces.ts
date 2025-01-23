@@ -22,19 +22,14 @@ export interface EpicResponse {
 export interface EpicApiGameInfo {
   title: string,
   description: string,
-  promotions: {
-    promotionalOffers: [
-      {
-        promotionalOffers: [
-          {
-            discountSetting: {
-              discountPercentage: number,
-            },
-            endDate: string,
-          },
-        ],
-      },
-    ],
+  promotions?: {
+    promotionalOffers?: [{
+      promotionalOffers?: [{
+        discountSetting: {
+          discountPercentage: number;
+        }; endDate: string;
+      }] | undefined,
+    }] | undefined,
   },
   keyImages: [
     {

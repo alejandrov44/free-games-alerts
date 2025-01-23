@@ -1,6 +1,6 @@
 import freeGamesList from "../crawler/index";
 import { sendDiscordWebhook } from "./webhook";
 
-await (async () => {
+void (async () => {
   await sendDiscordWebhook(await freeGamesList);
 })();
