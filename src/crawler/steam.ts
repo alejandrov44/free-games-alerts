@@ -1,4 +1,4 @@
-import { GamePlatforms } from "../enums";
+import { GamePlatforms, Months } from "../enums";
 import { Game } from "../interfaces";
 import { getHTMLRequest, HeaderTypes } from "../requests";
 
@@ -44,21 +44,6 @@ export const getSteamEndOfferDay = (rawDateText: string): Date => {
   const date = `2025-${Months[dateObject[2]]}-${dateObject[1]}T${dateObject[3]}:00:00.000Z`
   return new Date(date);
 };
-
-export enum Months {
-  Jan = "01",
-  Feb = "02",
-  Mar = "03",
-  Apr = "04",
-  May = "05",
-  Jun = "06",
-  Jul = "07",
-  Aug = "08",
-  Sep = "09",
-  Oct = "10",
-  Nov = "11",
-  Dec = "12",
-}
 
 (async () => {
   console.log(await fetchSteamGames());

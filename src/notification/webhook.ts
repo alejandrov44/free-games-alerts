@@ -22,5 +22,6 @@ export const sendDiscordWebhook = async (gamesList: Game[]): Promise<void> => {
 };
 
 export const formatGameForWebhook = (game: Game, index: number): string => {
-  return `# ${index}. ${game.title}\n ## On ${game.platform} until <t:${game.endDateDiscount.getTime()}:f>\n ${game.description ? `${game.description}\n` : ""}\n [Link To Game](${game.productUrl})\n`
+  const timestamp = game.endDateDiscount.getTime() / 1000;
+  return `# ${index}. ${game.title}\n ## On ${game.platform} until <t:${timestamp}:f>\n ${game.description ? `${game.description}\n` : ""}\n [Link To Game](${game.productUrl})\n`
 };
