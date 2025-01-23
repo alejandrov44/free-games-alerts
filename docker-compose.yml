@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  free-games-alerts:
+    build: .
+    privileged: true
+    image: free-games-alerts
+    network_mode: host
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    env_file:
+      - .env
+    environment:
+      EXECUTION_WITH_DOCKER: "true"
