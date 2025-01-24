@@ -6,32 +6,39 @@
 ## Table of contents
 
 - [Description](#description)
-- [Prerequisites](#prerequisites)
-- [How to generate the uncompressed extension](#how-to-generate-the-uncompressed-extension)
+- [Create a webhook on discord](#create-a-webhook-on-discord)
+- [How to run a quick alert](#how-to-run-a-quick-alert)
 - [Add the extension to Chromium browsers](#add-the-extension-to-chromium-browsers)
 
 ## Description
 
-A simple way to get notified with all the data about every new free game on the main videogame platforms, like steam, epic or gog.
+A simple way to get notified 📨 with all the info about every new free game on the main videogame platforms, like steam, epic or gog 🎮.
 
-## Prerequisites
+## Create a webhook on discord
 
-This are the prerequisites to be able to use the project:
+To be able to get notified on discord first you need to create a webhook that will allow the project to send messages to one channel of your server.
 
-1- Download or clone the repository.
+1- Go to `Server Settings` -> `Integrations` -> `Webhooks` -> `New Webhook`.
 
-2a- Ensure you have [Docker](https://www.docker.com/products/docker-desktop/) installed on your machine.
+2- Personalizate your webhook and copy the URL that it gives to you.
+The url have 2 important parts:
 
-Or
+```bash
+# Webhook url example
+https://discord.com/api/webhooks/4684567458694593/aL2uEoXIwrkbGE67q9ihxHRPEnua3zXoII-t6k104rMJ0kpLv2HKFCUpTZlqaRF5HiKI
+```
+- The webhook id: `4684567458694593`.
+- The webhook token: `aL2uEoXIwrkbGE67q9ihxHRPEnua3zXoII-t6k104rMJ0kpLv2HKFCUpTZlqaRF5HiKI`.
 
-2b- Ensure you have [Node.js](https://nodejs.org/en/download/) installed on your machine.
-
+Both are needed to be able to send a message with it, so be sure to write the 2 of them to the corresponding fields on the `.env` file.
 
 ## How to run a quick alert
 
 1- Ensure you have installed nodejs.
 
-2- Execute this two commands on the bash terminal on the root of the project:
+2- Crate a .env file at the root of the project with the variables needed. *See the `example.env` file*.
+
+3- Execute this two commands on the bash terminal on the root of the project:
 
 ```bash
 # Install all project packages
@@ -40,9 +47,16 @@ npm i --save
 # Run the project
 npm run send_free_games_alert
 ```
+(*You can always execute with `docker-compose` so you don't have to install nothing more than docker.*)
 
-3- Wait until you can see the
+4- Wait until you can see the message arrive on the channel especified on your webhook
 
+## Future upgrades
+ 
+I plan to add other platforms sus as Origin or Primer Gaming. Additionally, future updates will include support for other popular notification channels like Email 📧 and Slack 💼 to enhance accessibility and user preference compatibility.
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
  
 ## Star the repo!!! ⭐
  
