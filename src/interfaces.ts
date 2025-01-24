@@ -1,4 +1,9 @@
-import { GamePlatforms } from "./enums";
+import { GamePlatforms, HeaderTypes } from "./enums";
+
+export interface Header {
+  name: HeaderTypes,
+  value: string,
+}
 
 export interface Game {
   platform: GamePlatforms,

@@ -1,15 +1,5 @@
 import { CheerioAPI, load } from "cheerio";
-import { EpicResponse, GogResponse } from "./interfaces";
-
-export enum HeaderTypes {
-  contentType = "content-type",
-  cookie = "cookie",
-}
-
-interface Header {
-  name: HeaderTypes,
-  value: string,
-}
+import { EpicResponse, GogResponse, Header } from "./interfaces";
 
 const getHeaders = (headers?: Header[]): HeadersInit => {
   return headers?.reduce((acc, header) => {

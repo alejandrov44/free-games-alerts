@@ -4,6 +4,11 @@ export enum GamePlatforms {
   Gog = "Gog",
 }
 
+export enum HeaderTypes {
+  contentType = "content-type",
+  cookie = "cookie",
+}
+
 export enum Months {
   Jan = "01",
   Feb = "02",
