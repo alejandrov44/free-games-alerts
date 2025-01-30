@@ -1,6 +1,7 @@
+import { HeaderTypes } from "../enums";
 import envs from "../environment";
 import { Game } from "../interfaces";
-import { HeaderTypes, postRequest } from "../requests";
+import { postRequest } from "../requests";
 import { DiscordWebhookPayload } from "./interfaces";
 
 const webhookToken = Buffer.from(envs.discordWebhookToken || "", "base64").toString("utf-8");

@@ -1,6 +1,6 @@
-import { GamePlatforms, Months } from "../enums";
+import { GamePlatforms, HeaderTypes, Months } from "../enums";
 import { Game } from "../interfaces";
-import { getHTMLRequest, HeaderTypes } from "../requests";
+import { getHTMLRequest } from "../requests";
 
 const freeGamesApiUrl = "https://store.steampowered.com/search/results/?maxprice=free&specials=1&ignore_preferences=1";
 

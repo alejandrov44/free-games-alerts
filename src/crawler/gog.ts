@@ -1,6 +1,6 @@
-import { GamePlatforms } from "../enums";
+import { GamePlatforms, HeaderTypes } from "../enums";
 import { Game, GogResponse } from "../interfaces";
-import { getApiRequest, HeaderTypes } from "../requests";
+import { getApiRequest } from "../requests";
 
 const freeGamesApiUrl = "https://catalog.gog.com/v1/catalog?limit=140&price=between:0,0&order=desc:trending&discounted=eq:true&productType=in:game,pack,dlc,extras&page=1&countryCode=ES&locale=en-US&currencyCode=EUR";
 
