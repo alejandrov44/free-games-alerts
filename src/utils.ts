@@ -8,3 +8,9 @@ export const validatDiscordWebhookId = (discordClientId: string) => {
   if (discordClientId.length !== 19) throw new Error("Invalid Webhook ID length.");
   return discordClientId;
 };
+
+export function removeIlegalDiscordChars(str: string): string {
+  const ilegalDiscordCharacters = ["®", "™"];
+  const pattern = new RegExp(`[${ilegalDiscordCharacters.join("")}]`, "g");
+  return str.replace(pattern, "");
+}

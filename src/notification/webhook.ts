@@ -2,6 +2,7 @@ import { HeaderTypes } from "../enums";
 import envs from "../environment";
 import { Game } from "../interfaces";
 import { postRequest } from "../requests";
+import { removeIlegalDiscordChars } from "../utils";
 import { DiscordWebhookPayload } from "./interfaces";
 
 const webhookToken = Buffer.from(envs.discordWebhookToken || "", "base64").toString("utf-8");
@@ -24,5 +25,5 @@ export const sendDiscordWebhook = async (gamesList: Game[]): Promise<void> => {
 
 export const formatGameForWebhook = (game: Game, index: number): string => {
   const timestamp = game.endDateDiscount.getTime() / 1000;
-  return `# ${index}. ${game.title}\n ## On ${game.platform} until <t:${timestamp}:f>\n ${game.description ? `${game.description}\n` : ""}\n [Link To Game](${game.productUrl})\n`;
+  return `# ${index}. ${removeIlegalDiscordChars(game.title)}\n ## On ${game.platform} until <t:${timestamp}:f>\n ${game.description ? `${removeIlegalDiscordChars(game.description)}\n` : ""}\n [Link To Game](${game.productUrl})\n`;
 };
