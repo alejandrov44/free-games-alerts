@@ -33,15 +33,16 @@ export const fetchSteamGameInfo = async (gameUrl: string): Promise<Game> => {
     description: $("meta[property=\"og:description\"]").attr("content") ?? "",
     imageUrl: $("img.game_header_image_full").attr("src") ?? "",
     productUrl: gameUrl,
-    endDateDiscount: getSteamEndOfferDay($("p.game_purchase_discount_quantity ").text()),
+    endDateDiscount: getSteamEndOfferDay($("p[class=\"game_purchase_discount_quantity \"]").text()),
   };
   return game;
 };
 
-export const getSteamEndOfferDay = (rawDateText: string): Date => {
-  const regex = /^.*?(\d+).*?(\w{3}).*?(\d+).*?$/m;
+export const getSteamEndOfferDay = (rawDateText: string): Date | undefined => {
+  const regex = /^.*(\w{3}).*?(\d+).*?(\d+).*?$/m;
   const dateObject = regex.exec(rawDateText) ?? [];
-  const month = Months[dateObject[2]] as Months;
-  const date = `2025-${month}-${dateObject[1]}T${dateObject[3]}:00:00.000Z`;
+  if (!dateObject[1]) return undefined;
+  const month = Months[dateObject[1]] as Months;
+  const date = `2025-${month}-${dateObject[2]}T${dateObject[3]}:00:00.000Z`;
   return new Date(date);
 };

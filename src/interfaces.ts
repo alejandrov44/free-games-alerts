@@ -11,7 +11,7 @@ export interface Game {
   description: string,
   imageUrl: string,
   productUrl: string,
-  endDateDiscount: Date,
+  endDateDiscount?: Date,
 };
 
 export interface EpicResponse {
