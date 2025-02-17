@@ -1,5 +1,6 @@
 import { GamePlatforms, HeaderTypes } from "../enums";
-import { EpicResponse, Game } from "../interfaces";
+import { Game } from "../interfaces";
+import { EpicResponse } from "./interfaces";
 import { getApiRequest } from "../requests";
 
 const freeGamesApiUrl = "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions";
