@@ -18,7 +18,7 @@ export const checkNewGames = async (actualFreeGames: Game[]): Promise<Game[]> =>
   
   // Filter out games that are already stored
   const gamesToAdd = actualFreeGames.reduce((acc, c) => {
-    const gameId = `${c.title}${c.endDateDiscount?.getTime()}`;
+    const gameId = `${c.title} - ${c.endDateDiscount?.getTime()}`;
     if (storedGames.some(storedGame => storedGame.gameId === gameId)) return acc;
     const game: JsonGame = {
       ...c,
@@ -32,7 +32,8 @@ export const checkNewGames = async (actualFreeGames: Game[]): Promise<Game[]> =>
   if (gamesToAdd.length > 0) {
     storedGames.push(...gamesToAdd);
     await fs.writeFile(JSON_FILE_PATH, JSON.stringify({ games: storedGames }, null, 2), "utf-8");
-    console.log("OK ADDED");
+    // eslint-disable-next-line no-console
+    console.log("Games added to the json: ", gamesToAdd);
   }
 
   return actualFreeGames.filter(game => gamesToAdd.some(gameToAdd => game.title !== gameToAdd.title));
