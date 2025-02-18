@@ -1,7 +1,7 @@
 name: Run Weekly Script
 on:
   schedule:
-    - cron: '0 15 * * 5' # Every Friday at 15:00 UTC
+    - cron: '0 17 * * *' # Everyday at 17:00 UTC
 jobs:
   run-script:
     runs-on: ubuntu-latest
@@ -29,3 +29,15 @@ jobs:
 
     - name: Run send_free_games_alert script
       run: npm run send_free_games_alert
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add ./src/data/games.json
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+        git commit -m "add new games to the storage"
+        git push

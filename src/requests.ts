@@ -1,5 +1,6 @@
 import { CheerioAPI, load } from "cheerio";
-import { EpicResponse, GogResponse, Header } from "./interfaces";
+import { EpicResponse, GogResponse } from "./crawler/interfaces";
+import { Header } from "./interfaces";
 
 const getHeaders = (headers?: Header[]): HeadersInit => {
   return headers?.reduce((acc, header) => {

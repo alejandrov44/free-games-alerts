@@ -4,7 +4,7 @@
   "description": "Quick and easy way to get notified from all kind of new free games available from different platforms to claim.",
   "main": "index.ts",
   "scripts": {
-    "send_free_games_alert": "npx ts-node src/notification/index.ts"
+    "send_free_games_alert": "npx ts-node src/index.ts"
   },
   "author": "alejandrov44",
   "license": "MIT",
