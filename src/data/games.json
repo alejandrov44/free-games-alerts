@@ -35,6 +35,24 @@
       "productUrl": "https://store.steampowered.com/app/3161090/Royal_Quest_Online__Hero_Power/?snr=1_7_7_2300_150_1",
       "endDateDiscount": "2025-02-25T10:00:00.000Z",
       "gameId": "Royal Quest Online - Hero Power - 1740477600000"
+    },
+    {
+      "platform": "Epic Games",
+      "title": "Garden Story",
+      "description": "Unify a broken community as the newly-appointed Guardian of The Grove. Traverse a vibrant island to combat invasive Rot, inspire its inhabitants, and rebuild your home. You won't have to do this alone: fruity friends await, ready to lend a hand!",
+      "imageUrl": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c",
+      "productUrl": "https://store.epicgames.com/es-ES/p/garden-story",
+      "endDateDiscount": "2025-02-27T16:00:00.000Z",
+      "gameId": "Garden Story - 1740672000000"
+    },
+    {
+      "platform": "Epic Games",
+      "title": "World War Z Aftermath",
+      "description": "World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has now captivated over 15 million players. Fight off hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world.",
+      "imageUrl": "https://cdn1.epicgames.com/offer/wombat/EGS_WorldWarZ_SaberInteractive_Editions_S1_2560x1440-1555028d9b62f5348df49ad07b4301f0",
+      "productUrl": "https://store.epicgames.com/es-ES/p/world-war-z",
+      "endDateDiscount": "2025-02-27T16:00:00.000Z",
+      "gameId": "World War Z Aftermath - 1740672000000"
     }
   ]
 }
