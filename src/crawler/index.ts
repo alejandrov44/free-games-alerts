@@ -1,8 +1,7 @@
 import { Game } from "../interfaces";
-import { fetchFreeEpicGames } from "./epic_store";
+import { fetchFreeEpicGames } from "./epic-store";
 // import { fetchFreeGogGames } from "./gog";
 import { fetchSteamGames } from "./steam";
-
 
 const freeGamesList: Promise<Game[]> = (async () => {
   const freeEpicGamesList = await fetchFreeEpicGames();
@@ -15,6 +14,5 @@ const freeGamesList: Promise<Game[]> = (async () => {
     // ...freeGogGamesList,
   ];
 })();
-
 
 export default freeGamesList;

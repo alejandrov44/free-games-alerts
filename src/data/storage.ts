@@ -5,7 +5,9 @@ import { HistoricalGamesJson, JsonGame } from "./interfaces";
 
 const JSON_FILE_PATH = path.join(__dirname, "games.json");
 
-export const checkNewGames = async (actualFreeGames: Game[]): Promise<Game[]> => {
+export const checkNewGames = async (
+  actualFreeGames: Game[]
+): Promise<Game[]> => {
   let storedGames: JsonGame[] = [];
 
   try {
@@ -15,11 +17,12 @@ export const checkNewGames = async (actualFreeGames: Game[]): Promise<Game[]> =>
   } catch (error) {
     if ((error as NodeJS.ErrnoException).code !== "ENOENT") throw error;
   }
-  
+
   // Filter out games that are already stored
   const gamesToAdd = actualFreeGames.reduce((acc, c) => {
     const gameId = `${c.title} - ${c.endDateDiscount?.getTime()}`;
-    if (storedGames.some(storedGame => storedGame.gameId === gameId)) return acc;
+    if (storedGames.some((storedGame) => storedGame.gameId === gameId))
+      return acc;
     const game: JsonGame = {
       ...c,
       gameId,
@@ -28,11 +31,17 @@ export const checkNewGames = async (actualFreeGames: Game[]): Promise<Game[]> =>
     acc.push(game as never);
     return acc;
   }, []) as JsonGame[];
-  
+
   if (gamesToAdd.length === 0) return [];
 
   storedGames.push(...gamesToAdd);
-  await fs.writeFile(JSON_FILE_PATH, JSON.stringify({ games: storedGames }, null, 2), "utf-8");
+  await fs.writeFile(
+    JSON_FILE_PATH,
+    JSON.stringify({ games: storedGames }, null, 2),
+    "utf-8"
+  );
 
-  return actualFreeGames.filter(game => gamesToAdd.some(gameToAdd => game.title !== gameToAdd.title));
+  return actualFreeGames.filter((game) =>
+    gamesToAdd.some((gameToAdd) => game.title !== gameToAdd.title)
+  );
 };
