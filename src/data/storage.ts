@@ -29,12 +29,10 @@ export const checkNewGames = async (actualFreeGames: Game[]): Promise<Game[]> =>
     return acc;
   }, []) as JsonGame[];
   
-  if (gamesToAdd.length > 0) {
-    storedGames.push(...gamesToAdd);
-    await fs.writeFile(JSON_FILE_PATH, JSON.stringify({ games: storedGames }, null, 2), "utf-8");
-    // eslint-disable-next-line no-console
-    console.log("Games added to the json: ", gamesToAdd);
-  }
+  if (gamesToAdd.length === 0) return [];
+
+  storedGames.push(...gamesToAdd);
+  await fs.writeFile(JSON_FILE_PATH, JSON.stringify({ games: storedGames }, null, 2), "utf-8");
 
   return actualFreeGames.filter(game => gamesToAdd.some(gameToAdd => game.title !== gameToAdd.title));
 };
