@@ -53,6 +53,24 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/world-war-z",
       "endDateDiscount": "2025-02-27T16:00:00.000Z",
       "gameId": "World War Z Aftermath - 1740672000000"
+    },
+    {
+      "platform": "Steam",
+      "title": "Stellar Mess: The Princess Conundrum (Chapter 1)",
+      "description": "Stellar Mess is a 2D point&amp;click adventure game, set somewhere in Argentinean Patagonia. The game is inspired by early classic EGA games of the genre.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1507530/header.jpg?t=1740078085",
+      "productUrl": "https://store.steampowered.com/app/1507530/Stellar_Mess_The_Princess_Conundrum_Chapter_1/?snr=1_7_7_2300_150_1",
+      "endDateDiscount": "2025-02-27T10:00:00.000Z",
+      "gameId": "Stellar Mess: The Princess Conundrum (Chapter 1) - 1740650400000"
+    },
+    {
+      "platform": "Steam",
+      "title": "Royal Quest Online - Hero Power",
+      "description": "The Hero Power pack includes items that will help upgrade your character faster.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3161090/header.jpg?t=1738014961",
+      "productUrl": "https://store.steampowered.com/app/3161090/Royal_Quest_Online__Hero_Power/?snr=1_7_7_2300_150_1",
+      "endDateDiscount": "2025-02-25T10:00:00.000Z",
+      "gameId": "Royal Quest Online - Hero Power - 1740477600000"
     }
   ]
 }
