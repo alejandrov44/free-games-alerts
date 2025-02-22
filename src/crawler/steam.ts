@@ -1,4 +1,4 @@
-import { GamePlatforms, HeaderTypes, HeaderValues, Months } from "../enums";
+import { GamePlatforms, HeaderTypes, HeaderValues, monthMap } from "../enums";
 import { Game } from "../interfaces";
 import { getHTMLRequest } from "../requests";
 
@@ -44,10 +44,33 @@ export const fetchSteamGameInfo = async (gameUrl: string): Promise<Game> => {
 };
 
 export const getSteamEndOfferDay = (rawDateText: string): Date | undefined => {
-  const regex = /^.*(\w{3}).*?(\d+).*?(\d+).*?$/m;
-  const dateObject = regex.exec(rawDateText) ?? [];
-  if (!dateObject[1]) return undefined;
-  const month = Months[dateObject[1]] as Months;
-  const date = `2025-${month}-${dateObject[2]}T${dateObject[3]}:00:00.000Z`;
-  return new Date(date);
+  const regexDay = /\s(\d{1,2})\s/i;
+  const regexMonth = /\s(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)/i;
+  const regexHours = /(\d{1,2}):(\d{1,2})\s?(am|pm)/i;
+
+  const matchDay = regexDay.exec(rawDateText);
+  const matchMonth = regexMonth.exec(rawDateText);
+  const matchHours = regexHours.exec(rawDateText);
+
+  if (!matchDay || !matchMonth || !matchHours) return undefined;
+
+  const day = parseInt(matchDay[1], 10);
+  const monthName = matchMonth[1];
+  const hour12 = parseInt(matchHours[1], 10);
+  const minutes = parseInt(matchHours[2], 10);
+  const period = matchHours[3].toLowerCase();
+
+  const month = monthMap[monthName];
+  if (month === undefined) return undefined;
+
+  const year = new Date().getFullYear();
+
+  let hours = hour12;
+  if (period === "pm" && hour12 !== 12) {
+    hours += 12;
+  } else if (period === "am" && hour12 === 12) {
+    hours = 0;
+  }
+
+  return new Date(year, month, day, hours, minutes);
 };
