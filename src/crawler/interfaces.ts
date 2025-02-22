@@ -2,44 +2,53 @@ export interface EpicResponse {
   data: {
     Catalog: {
       searchStore: {
-        elements: EpicApiGameInfo[],
-      },
-    },
-  },
-};
+        elements: EpicApiGameInfo[];
+      };
+    };
+  };
+}
 
 export interface EpicApiGameInfo {
-  title: string,
-  description: string,
+  title: string;
+  description: string;
   promotions?: {
-    promotionalOffers?: [{
-      promotionalOffers?: [{
-        discountSetting: {
-          discountPercentage: number;
-        }; endDate: string;
-      }] | undefined,
-    }] | undefined,
-  },
+    promotionalOffers?:
+      | [
+          {
+            promotionalOffers?:
+              | [
+                  {
+                    discountSetting: {
+                      discountPercentage: number;
+                    };
+                    endDate: string;
+                  }
+                ]
+              | undefined;
+          }
+        ]
+      | undefined;
+  };
   keyImages: [
     {
-      url: string,
-    },
-  ],
+      url: string;
+    }
+  ];
   catalogNs: {
     mappings: [
       {
-        pageSlug: string,
-      },
-    ],
-  },
-};
+        pageSlug: string;
+      }
+    ];
+  };
+}
 
 export interface GogResponse {
-  products: GogApiGameInfo[],
-};
+  products: GogApiGameInfo[];
+}
 
 export interface GogApiGameInfo {
-  title: string,
-  coverHorizontal: string,
-  storeLink: string,
-};
+  title: string;
+  coverHorizontal: string;
+  storeLink: string;
+}

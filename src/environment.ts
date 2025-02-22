@@ -1,5 +1,5 @@
 import dotenv from "dotenv";
-import { validatDiscordWebhookId, validateDiscordWebhookToken } from "./utils";
+import { validatDiscordWebhookId, validateDiscordWebhookToken } from "./utilities";
 dotenv.config();
 
 interface EnvironmentVariables {

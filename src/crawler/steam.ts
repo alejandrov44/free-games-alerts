@@ -1,27 +1,30 @@
-import { GamePlatforms, HeaderTypes, Months } from "../enums";
+import { GamePlatforms, HeaderTypes, HeaderValues, Months } from "../enums";
 import { Game } from "../interfaces";
 import { getHTMLRequest } from "../requests";
 
-const freeGamesApiUrl = "https://store.steampowered.com/search/results/?maxprice=free&specials=1&ignore_preferences=1";
+const freeGamesApiUrl =
+  "https://store.steampowered.com/search/results/?maxprice=free&specials=1&ignore_preferences=1";
 
 const headers = [
-  { 
-    name: HeaderTypes.contentType, 
-    value: "application/json;charset=UTF-7",
+  {
+    name: HeaderTypes.contentType,
+    value: HeaderValues.contentType,
   },
-  { 
-    name: HeaderTypes.cookie, 
-    value: "lastagecheckage=1-January-1999; birthtime=915170401; wants_mature_content=1",
+  {
+    name: HeaderTypes.cookie,
+    value: HeaderValues.steamCookie,
   },
 ];
 
 export const fetchSteamGames = async (): Promise<Game[]> => {
   const $ = await getHTMLRequest(freeGamesApiUrl, headers);
   const $games = $("#search_resultsRows").children("a");
-  const games = $games.map(async (_, element) => {
-    const item = $(element);
-    return await fetchSteamGameInfo(item.attr("href") ?? "");
-  }).get();
+  const games = $games
+    .map(async (_, element) => {
+      const item = $(element);
+      return await fetchSteamGameInfo(item.attr("href") ?? "");
+    })
+    .get();
   return Promise.all(games);
 };
 
@@ -30,10 +33,12 @@ export const fetchSteamGameInfo = async (gameUrl: string): Promise<Game> => {
   const game: Game = {
     platform: GamePlatforms.Steam,
     title: $("div#appHubAppName").text(),
-    description: $("meta[property=\"og:description\"]").attr("content") ?? "",
+    description: $('meta[property="og:description"]').attr("content") ?? "",
     imageUrl: $("img.game_header_image_full").attr("src") ?? "",
     productUrl: gameUrl,
-    endDateDiscount: getSteamEndOfferDay($("p[class=\"game_purchase_discount_quantity \"]").text()),
+    endDateDiscount: getSteamEndOfferDay(
+      $('p[class="game_purchase_discount_quantity "]').text()
+    ),
   };
   return game;
 };
