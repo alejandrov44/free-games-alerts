@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "Quick and easy way to get notified from all kind of new free games available from different platforms to claim.",
   "main": "index.ts",
+  "type": "module",
   "scripts": {
     "send_free_games_alert": "npx ts-node src/index.ts"
   },
   "author": "alejandrov44",
   "license": "MIT",
   "devDependencies": {
-    "@alejandrov44/eslint-config": "^1.0.0",
+    "@alejandrov44/eslint-config": "^0.1.0",
     "@types/node": "^22.10.10",
     "jiti": "^2.4.2",
     "ts-node": "^10.9.2",
@@ -17,6 +18,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0",
-    "dotenv": "^16.4.5"
+    "dotenv-safe": "^9.1.0",
+    "@types/dotenv-safe": "^8.1.6"
   }
 }

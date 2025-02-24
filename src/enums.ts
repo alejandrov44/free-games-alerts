@@ -27,4 +27,4 @@ export const monthMap: Record<string, number> = {
   Oct: 9,
   Nov: 10,
   Dec: 11,
-};
+}

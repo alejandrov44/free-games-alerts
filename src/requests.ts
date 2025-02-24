@@ -1,14 +1,11 @@
-import { CheerioAPI, load } from "cheerio";
-import { EpicResponse, GogResponse } from "./crawler/interfaces";
-import { Header } from "./interfaces";
+import { CheerioAPI, load } from "cheerio"
+import { EpicResponse, GogResponse } from "./crawler/interfaces"
+import { Header } from "./interfaces"
 
-const getHeaders = (headers?: Header[]): HeadersInit => {
-  return (
-    headers?.reduce((acc, header) => {
-      acc[header.name] = header.value;
-      return acc;
-    }, {}) ?? {}
-  );
+const getHeaders = (headers: Header[]): Headers => {
+  const headerObj = new Headers();
+  headers.forEach(({ name, value }) => headerObj.append(name, value));
+  return headerObj;
 };
 
 export const getApiRequest = async (
@@ -17,11 +14,11 @@ export const getApiRequest = async (
 ): Promise<EpicResponse | GogResponse> => {
   const fetchConfig = {
     method: "GET",
-    headers: getHeaders(headers),
-  };
-  const response = await fetch(url, fetchConfig);
-  return (await response.json()) as EpicResponse;
-};
+    headers: headers ? getHeaders(headers) : undefined,
+  }
+  const response = await fetch(url, fetchConfig)
+  return (await response.json()) as EpicResponse
+}
 
 export const getHTMLRequest = async (
   url: string,
@@ -29,24 +26,24 @@ export const getHTMLRequest = async (
 ): Promise<CheerioAPI> => {
   const fetchConfig = {
     method: "GET",
-    headers: getHeaders(headers),
-  };
-  const response = await fetch(url, fetchConfig);
-  const html = load(await response.text());
-  return html;
-};
+    headers: headers ? getHeaders(headers) : undefined,
+  }
+  const response = await fetch(url, fetchConfig)
+  const html = load(await response.text())
+  return html
+}
 
 export const postRequest = async (
   url: string,
-  body: BodyInit,
+  body: any,
   headers?: Header[]
 ): Promise<void> => {
   const fetchConfig: RequestInit = {
     method: "POST",
-    headers: getHeaders(headers),
+    headers: headers ? getHeaders(headers) : undefined,
     body,
-  };
-  const response = await fetch(url, fetchConfig);
+  }
+  const response = await fetch(url, fetchConfig)
   // eslint-disable-next-line no-console
-  if (!response.ok) console.log(response);
-};
+  if (!response.ok) console.log(response)
+}
