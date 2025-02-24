@@ -2,18 +2,11 @@ import { GamePlatforms, HeaderTypes, HeaderValues, monthMap } from "../enums";
 import { Game } from "../interfaces";
 import { getHTMLRequest } from "../requests";
 
-const freeGamesApiUrl =
-  "https://store.steampowered.com/search/results/?maxprice=free&specials=1&ignore_preferences=1";
+const freeGamesApiUrl = "https://store.steampowered.com/search/results/?maxprice=free&specials=1&ignore_preferences=1";
 
 const headers = [
-  {
-    name: HeaderTypes.contentType,
-    value: HeaderValues.contentType,
-  },
-  {
-    name: HeaderTypes.cookie,
-    value: HeaderValues.steamCookie,
-  },
+  { name: HeaderTypes.contentType, value: HeaderValues.contentType },
+  { name: HeaderTypes.cookie, value: HeaderValues.steamCookie },
 ];
 
 export const fetchSteamGames = async (): Promise<Game[]> => {
@@ -36,9 +29,7 @@ export const fetchSteamGameInfo = async (gameUrl: string): Promise<Game> => {
     description: $('meta[property="og:description"]').attr("content") ?? "",
     imageUrl: $("img.game_header_image_full").attr("src") ?? "",
     productUrl: gameUrl,
-    endDateDiscount: getSteamEndOfferDay(
-      $('p[class="game_purchase_discount_quantity "]').text()
-    ),
+    endDateDiscount: getSteamEndOfferDay($('p[class="game_purchase_discount_quantity "]').text()),
   };
   return game;
 };
@@ -54,14 +45,13 @@ export const getSteamEndOfferDay = (rawDateText: string): Date | undefined => {
 
   if (!matchDay || !matchMonth || !matchHours) return undefined;
 
-  const day = parseInt(matchDay[1], 10);
+  const day = Number.parseInt(matchDay[1], 10);
   const monthName = matchMonth[1];
-  const hour12 = parseInt(matchHours[1], 10);
-  const minutes = parseInt(matchHours[2], 10);
+  const hour12 = Number.parseInt(matchHours[1], 10);
+  const minutes = Number.parseInt(matchHours[2], 10);
   const period = matchHours[3].toLowerCase();
 
   const month = monthMap[monthName];
-  if (month === undefined) return undefined;
 
   const year = new Date().getFullYear();
 
