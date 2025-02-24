@@ -1,4 +1,4 @@
-name: Run Weekly Script
+name: Run Test Server Execution
 on:
   schedule:
     - cron: "0 17 * * *" # Everyday at 17:00 UTC
