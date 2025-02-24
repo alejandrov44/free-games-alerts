@@ -28,24 +28,6 @@
       "gameId": "Garden Story - 1740672000000"
     },
     {
-      "platform": "Steam",
-      "title": "Stellar Mess: The Princess Conundrum (Chapter 1)",
-      "description": "Stellar Mess is a 2D point&amp;click adventure game, set somewhere in Argentinean Patagonia. The game is inspired by early classic EGA games of the genre.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1507530/header.jpg?t=1740078085",
-      "productUrl": "https://store.steampowered.com/app/1507530/Stellar_Mess_The_Princess_Conundrum_Chapter_1/?snr=1_7_7_2300_150_1",
-      "endDateDiscount": "2025-02-27T09:00:00.000Z",
-      "gameId": "Stellar Mess: The Princess Conundrum (Chapter 1) - 1740646800000"
-    },
-    {
-      "platform": "Steam",
-      "title": "Royal Quest Online - Hero Power",
-      "description": "The Hero Power pack includes items that will help upgrade your character faster.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3161090/header.jpg?t=1738014961",
-      "productUrl": "https://store.steampowered.com/app/3161090/Royal_Quest_Online__Hero_Power/?snr=1_7_7_2300_150_1",
-      "endDateDiscount": "2025-02-25T09:00:00.000Z",
-      "gameId": "Royal Quest Online - Hero Power - 1740474000000"
-    },
-    {
       "platform": "Epic Games",
       "title": "World War Z Aftermath",
       "description": "World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has now captivated over 15 million players. Fight off hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world.",
@@ -53,15 +35,6 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/world-war-z",
       "endDateDiscount": "2025-02-27T16:00:00.000Z",
       "gameId": "World War Z Aftermath - 1740672000000"
-    },
-    {
-      "platform": "Steam",
-      "title": "Golden Light",
-      "description": "Eat weapons, be scared and question your own mind in this Survival-Horror FPS Prop Hunt Roguelike about meat. Walls are watching you!",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245430/header.jpg?t=1740124611",
-      "productUrl": "https://store.steampowered.com/app/1245430/Golden_Light/?snr=1_7_7_2300_150_1",
-      "endDateDiscount": "2025-02-24T09:00:00.000Z",
-      "gameId": "Golden Light - 1740387600000"
     },
     {
       "platform": "Steam",
