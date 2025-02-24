@@ -1,18 +1,17 @@
 export const validateDiscordWebhookToken = (discordToken: string) => {
   const regex = /[\w-]+[\w-]+/;
-  if (!regex.test(discordToken))
-    throw new Error("Invalid discord webhook token.");
+  if (!regex.test(discordToken)) throw new Error("Invalid discord webhook token.");
   return Buffer.from(discordToken || "", "utf8").toString("base64");
 };
 
 export const validatDiscordWebhookId = (discordClientId: string) => {
-  if (discordClientId.length !== 19)
-    throw new Error("Invalid Webhook ID length.");
+  if (discordClientId.length !== 19) throw new Error("Invalid Webhook ID length.");
   return discordClientId;
 };
 
-export function removeIlegalDiscordChars(str: string): string {
+export function removeIlegalDiscordChars(stringToFix: string): string {
   const ilegalDiscordCharacters = ["®", "™"];
   const pattern = new RegExp(`[${ilegalDiscordCharacters.join("")}]`, "g");
-  return str.replace(pattern, "");
+  const replacedString = stringToFix.replaceAll(pattern, "");
+  return replacedString;
 }

@@ -10,7 +10,7 @@
   "author": "alejandrov44",
   "license": "MIT",
   "devDependencies": {
-    "@alejandrov44/eslint-config": "^0.1.0",
+    "@alejandrov44/eslint-config": "^0.3.1",
     "@types/node": "^22.10.10",
     "jiti": "^2.4.2",
     "ts-node": "^10.9.2",

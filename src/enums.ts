@@ -14,6 +14,11 @@ export enum HeaderValues {
   steamCookie = "lastagecheckage=1-January-1999; birthtime=915170401; wants_mature_content=1",
 }
 
+export enum Methods {
+  Get = "GET",
+  Post = "POST",
+}
+
 export const monthMap: Record<string, number> = {
   Jan: 0,
   Feb: 1,
@@ -27,4 +32,4 @@ export const monthMap: Record<string, number> = {
   Oct: 9,
   Nov: 10,
   Dec: 11,
-}
+};
