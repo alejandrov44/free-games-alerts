@@ -1,28 +1,22 @@
-import dotenv from "dotenv";
-import { validatDiscordWebhookId, validateDiscordWebhookToken } from "./utils";
-dotenv.config();
+import dotenv from "dotenv-safe";
+import { validatDiscordWebhookId, validateDiscordWebhookToken } from "./utilities";
+import path from "node:path";
+
+dotenv.config({ example: path.resolve(import.meta.dirname, "../.env.example") });
 
 interface EnvironmentVariables {
   discordWebhookToken: string;
   discordWebhookId: string;
 }
 
-enum EnvVariables {
+enum EnvironmentVariablesMap {
   discordWebhookToken = "DISCORD_WEBHOOK_TOKEN",
   discordWebhookId = "DISCORD_WEBHOOK_ID",
 }
 
-const envValidations = {
-  [EnvVariables.discordWebhookToken]: validateDiscordWebhookToken,
-  [EnvVariables.discordWebhookId]: validatDiscordWebhookId,
+const environmentVariables: EnvironmentVariables = {
+  discordWebhookId: validatDiscordWebhookId(process.env[EnvironmentVariablesMap.discordWebhookId] ?? ""),
+  discordWebhookToken: validateDiscordWebhookToken(process.env[EnvironmentVariablesMap.discordWebhookToken] ?? ""),
 };
 
-const envs = {} as EnvironmentVariables;
-
-Object.keys(EnvVariables).forEach((key) => {
-  const variable = EnvVariables[key] as EnvVariables;
-  if (!process.env[variable]) throw new Error(`Environment Variable -> ${variable} is required`);
-  envs[key] = envValidations[variable](process.env[variable]);
-});
-
-export default envs;
+export default environmentVariables;
