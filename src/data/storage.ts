@@ -33,5 +33,5 @@ export const checkNewGames = async (actualFreeGames: Game[]): Promise<Game[]> =>
   storedGames.push(...gamesToAdd);
   await fs.writeFile(JSON_FILE_PATH, JSON.stringify({ games: storedGames }, undefined, 2), "utf8");
 
-  return actualFreeGames.filter((game) => gamesToAdd.some((gameToAdd) => game.title !== gameToAdd.title));
+  return actualFreeGames.filter((game) => gamesToAdd.some((gameToAdd) => game.title === gameToAdd.title));
 };
