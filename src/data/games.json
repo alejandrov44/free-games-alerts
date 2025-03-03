@@ -71,6 +71,15 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/mages-of-mystralia",
       "endDateDiscount": "2025-03-06T16:00:00.000Z",
       "gameId": "Mages of Mystralia - 1741276800000"
+    },
+    {
+      "platform": "Steam",
+      "title": "Isle of Jura",
+      "description": "Take a fishing trip to Jura, a remote and beautiful island. Explore, meet the locals, and catch delicious fish!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1703140/header.jpg?t=1740941260",
+      "productUrl": "https://store.steampowered.com/app/1703140/Isle_of_Jura/?snr=1_7_7_2300_150_1",
+      "endDateDiscount": "2025-03-09T10:00:00.000Z",
+      "gameId": "Isle of Jura - 1741514400000"
     }
   ]
 }
