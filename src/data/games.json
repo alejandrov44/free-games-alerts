@@ -80,6 +80,15 @@
       "productUrl": "https://store.steampowered.com/app/1703140/Isle_of_Jura/?snr=1_7_7_2300_150_1",
       "endDateDiscount": "2025-03-09T10:00:00.000Z",
       "gameId": "Isle of Jura - 1741514400000"
+    },
+    {
+      "platform": "Epic Games",
+      "title": "Them's Fightin' Herds",
+      "description": "Them's Fightin' Herds",
+      "imageUrl": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825",
+      "productUrl": "https://store.epicgames.com/es-ES/p/thems-fightin-herds",
+      "endDateDiscount": "2025-03-13T15:00:00.000Z",
+      "gameId": "Them's Fightin' Herds - 1741878000000"
     }
   ]
 }
