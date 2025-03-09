@@ -1,7 +1,7 @@
 name: Run Albert Server Execution
 on:
   schedule:
-    - cron: "0 17 * * *" # Everyday at 17:00 UTC
+    - cron: "0 18 * * *" # Everyday at 17:00 UTC
 jobs:
   run-script:
     runs-on: ubuntu-latest
