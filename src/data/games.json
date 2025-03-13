@@ -97,6 +97,42 @@
       "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1703140/header.jpg?t=1740941260",
       "productUrl": "https://store.steampowered.com/app/1703140/Isle_of_Jura/?snr=1_7_7_2300_150_1",
       "gameId": "Isle of Jura - undefined"
+    },
+    {
+      "platform": "Epic Games",
+      "title": "Mortal Shell",
+      "description": "Mortal Shell is a deep action-RPG that tests your sanity and resilience in a shattered world. Your adversaries spare no mercy, with survival demanding superior awareness and precision. Possess lost warriors, discover hidden sanctums, and face formidable foes.",
+      "imageUrl": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e",
+      "productUrl": "https://store.epicgames.com/es-ES/p/mortal-shell",
+      "endDateDiscount": "2025-03-20T15:00:00.000Z",
+      "gameId": "Mortal Shell - 1742482800000"
+    },
+    {
+      "platform": "Epic Games",
+      "title": "World of Warships — Anniversary Party Favor",
+      "description": "Behold our token of appreciation for playing World of Warships at the Epic Games Store on this, our fourth anniversary on the platform!",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1o35p.jpg",
+      "productUrl": "https://store.epicgames.com/es-ES/p/world-of-warships",
+      "endDateDiscount": "2025-03-20T15:00:00.000Z",
+      "gameId": "World of Warships — Anniversary Party Favor - 1742482800000"
+    },
+    {
+      "platform": "Steam",
+      "title": "Scheming Through The Zombie Apocalypse: The Beginning",
+      "description": "Join Hank and Larry, two small defenseless animals, as they manipulate their way through the zombie apocalypse. Meet various characters and get them to scavenge for you while guiding them to &quot;safety.&quot; Make life-or-death decisions, bargain, manage inventory, trade, and gamble.",
+      "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/813540/header.jpg?t=1741635715",
+      "productUrl": "https://store.steampowered.com/app/813540/Scheming_Through_The_Zombie_Apocalypse_The_Beginning/?snr=1_7_7_2300_150_1",
+      "endDateDiscount": "2025-03-18T10:00:00.000Z",
+      "gameId": "Scheming Through The Zombie Apocalypse: The Beginning - 1742292000000"
+    },
+    {
+      "platform": "Steam",
+      "title": "World of Warships — Starter Pack: Ishizuchi",
+      "description": "New to World of Warships? Dip your toes in the water with a Premium battleship and a set of sweet bonuses.",
+      "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/844890/header.jpg?t=1741886254",
+      "productUrl": "https://store.steampowered.com/app/844890/World_of_Warships__Starter_Pack_Ishizuchi/?snr=1_7_7_2300_150_1",
+      "endDateDiscount": "2025-03-20T10:00:00.000Z",
+      "gameId": "World of Warships — Starter Pack: Ishizuchi - 1742464800000"
     }
   ]
 }
