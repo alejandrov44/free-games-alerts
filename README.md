@@ -27,6 +27,7 @@ The url have 2 important parts:
 # Webhook url example
 https://discord.com/api/webhooks/4684567458694593/aL2uEoXIwrkbGE67q9ihxHRPEnua3zXoII-t6k104rMJ0kpLv2HKFCUpTZlqaRF5HiKI
 ```
+
 - The webhook id: `4684567458694593`.
 - The webhook token: `aL2uEoXIwrkbGE67q9ihxHRPEnua3zXoII-t6k104rMJ0kpLv2HKFCUpTZlqaRF5HiKI`.
 
@@ -36,7 +37,7 @@ Both are needed to be able to send a message with it, so be sure to write the 2 
 
 1- Ensure you have installed nodejs.
 
-2- Crate a .env file at the root of the project with the variables needed. *See the `example.env` file*.
+2- Crate a .env file at the root of the project with the variables needed. _See the `example.env` file_.
 
 3- Execute this two commands on the bash terminal on the root of the project:
 
@@ -47,21 +48,36 @@ npm i --save
 # Run the project
 npm run send_free_games_alert
 ```
-(*You can always execute with `docker-compose` so you don't have to install nothing more than docker.*)
+
+(_You can always execute with `docker-compose` so you don't have to install nothing more than docker._)
 
 4- Wait until you can see the message arrive on the channel especified on your webhook
 
 ## Future upgrades
- 
+
 I plan to add other platforms sus as Origin or Primer Gaming. Additionally, future updates will include support for other popular notification channels like Email 📧 and Slack 💼 to enhance accessibility and user preference compatibility.
 
-## License
-Distributed under the MIT License. See LICENSE for more information.
- 
-## Star the repo!!! ⭐
- 
-If I was able to help you, please star the repository. This will help me in my further work.
+## ⭐ Show Your Support
 
-## Contact Me:
- 
-[Discord](https://discord.gg/yGMknyc9)
+If you find this project helpful or inspiring, give it a ⭐ on GitHub—it means the world to me, and this will help me in my further work.
+
+## 🐛 Issues and Feature Requests
+
+Found a bug? Have a feature in mind? 🤔 Feel free to raise an issue or suggest a feature!
+
+1. Go to the **Issues** tab in the repository.
+2. Click **New Issue**.
+3. Provide a clear description of the bug or feature request.
+4. If applicable, include screenshots or steps to reproduce the issue.
+
+Your feedback is valuable and helps make this project better for everyone. Thank you for contributing!
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE.md). Feel free to use it, modify it, and share it! 🌈
+
+## 📧 Contact Me
+
+- 💼 [Portfolio Website](https://alejandrov44.pages.dev/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-viana/)
+- 📧 [Discord](https://discord.gg/yGMknyc9)

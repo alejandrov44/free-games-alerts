@@ -37,7 +37,7 @@ Ambos son necesarios para poder enviar un mensaje con él, así que asegúrate d
 
 1. Asegúrate de tener instalado Node.js.
 
-2. Crea un archivo `.env` en la raíz del proyecto con las variables necesarias. *Consulta el archivo `example.env`.*
+2. Crea un archivo `.env` en la raíz del proyecto con las variables necesarias. _Consulta el archivo `example.env`._
 
 3. Ejecuta estos dos comandos en la terminal Bash en la raíz del proyecto:
 
@@ -48,7 +48,8 @@ npm i --save
 # Ejecutar el proyecto
 npm run send_free_games_alert
 ```
-(*Siempre puedes ejecutar con `docker-compose` para no tener que instalar nada más que Docker.*)
+
+(_Siempre puedes ejecutar con `docker-compose` para no tener que instalar nada más que Docker._)
 
 4. Espera hasta que puedas ver el mensaje llegar al canal especificado en tu webhook.
 
@@ -56,14 +57,27 @@ npm run send_free_games_alert
 
 Planeo agregar otras plataformas como Origin o Primer Gaming. Además, futuras actualizaciones incluirán soporte para otros canales de notificación populares como correo electrónico 📧 y Slack 💼 para mejorar la accesibilidad y la compatibilidad con las preferencias del usuario.
 
-## Licencia
-Distribuido bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
+## ⭐ Muestra Tu Apoyo
 
-## ¡Dale una estrella al repositorio! ⭐
+Si encuentras este proyecto útil o inspirador, dale una ⭐ en GitHub. Significa mucho para mí y me ayudará en futuros desarrollos.
 
-Si pude ayudarte, por favor dale una estrella al repositorio. Esto me ayudará en mi trabajo futuro.
+## 🐛 Errores y Solicitudes de Funcionalidades
 
-## Contáctame:
+¿Encontraste un error? ¿Tienes una idea para mejorar el juego? 🤔 No dudes en abrir un issue o sugerir una nueva funcionalidad.
 
-[Discord](https://discord.gg/yGMknyc9)
+1. Ve a la pestaña **Issues** en el repositorio.
+2. Haz clic en **New Issue**.
+3. Proporciona una descripción clara del error o solicitud de funcionalidad.
+4. Si es aplicable, incluye capturas de pantalla o pasos para reproducir el problema.
 
+Tu feedback es importante y ayuda a mejorar este proyecto para todos. ¡Gracias por contribuir!
+
+## 📜 Licencia
+
+Este proyecto está bajo la [Licencia MIT](LICENSE.md). ¡Siéntete libre de usarlo, modificarlo y compartirlo! 🌈
+
+## 📧 Contáctame
+
+- 💼 [Sitio Web de Portafolio](https://alejandrov44.pages.dev/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-viana/)
+- 📧 [Discord](https://discord.gg/yGMknyc9)

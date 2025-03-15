@@ -10,7 +10,7 @@ export const validatDiscordWebhookId = (discordClientId: string) => {
 };
 
 export function removeIlegalDiscordChars(stringToFix: string): string {
-  const ilegalDiscordCharacters = ["®", "™"];
+  const ilegalDiscordCharacters = ["®", "™", "—"];
   const pattern = new RegExp(`[${ilegalDiscordCharacters.join("")}]`, "g");
   const replacedString = stringToFix.replaceAll(pattern, "");
   return replacedString;
