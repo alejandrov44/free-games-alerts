@@ -133,6 +133,15 @@
       "productUrl": "https://store.steampowered.com/app/844890/World_of_Warships__Starter_Pack_Ishizuchi/?snr=1_7_7_2300_150_1",
       "endDateDiscount": "2025-03-20T10:00:00.000Z",
       "gameId": "World of Warships — Starter Pack: Ishizuchi - 1742464800000"
+    },
+    {
+      "platform": "Steam",
+      "title": "Party Club",
+      "description": "Seat customers, serve drinks, and manage chaos with up to 4 players! Keep the peace by considering customer types while seating them. Survive disasters, handle quirky customers, and design the perfect venue to keep the party going!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2796010/header.jpg?t=1742224719",
+      "productUrl": "https://store.steampowered.com/app/2796010/Party_Club/?snr=1_7_7_2300_150_1",
+      "endDateDiscount": "2025-03-18T08:00:00.000Z",
+      "gameId": "Party Club - 1742284800000"
     }
   ]
 }
