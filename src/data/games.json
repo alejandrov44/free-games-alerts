@@ -142,6 +142,24 @@
       "productUrl": "https://store.steampowered.com/app/2796010/Party_Club/?snr=1_7_7_2300_150_1",
       "endDateDiscount": "2025-03-18T08:00:00.000Z",
       "gameId": "Party Club - 1742284800000"
+    },
+    {
+      "platform": "Epic Games",
+      "title": "Jurassic World Evolution 2",
+      "description": "Jurassic World Evolution 2 is the much-anticipated sequel to Frontier’s highly successful Jurassic World Evolution, building upon the groundbreaking and immersive 2018 management simulation.",
+      "imageUrl": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2_FrontierDevelopments_S1_2560x1440-4103be22950c498c9687d9457d9e0815",
+      "productUrl": "https://store.epicgames.com/es-ES/p/jurassic-world-evolution-2",
+      "endDateDiscount": "2025-03-27T15:00:00.000Z",
+      "gameId": "Jurassic World Evolution 2 - 1743087600000"
+    },
+    {
+      "platform": "Steam",
+      "title": "DRAN DIGITAL COLOR CHOICE BOOSTER",
+      "description": "DRAN DIGITAL COLOR CHOICE BOOSTER Includes 3 types of BUSTER DRAN Blades, 6 types of 1-60 Ratchets, and 6 types of A Bits inspired by Shibuya! :BUSTER DRAN 1-60A",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3534860/c847f5bf0be8f5dd26efd78122708b7d47d7949d/header.jpg?t=1742365568",
+      "productUrl": "https://store.steampowered.com/app/3534860/DRAN_DIGITAL_COLOR_CHOICE_BOOSTER/?snr=1_7_7_2300_150_1",
+      "endDateDiscount": "2025-04-03T10:00:00.000Z",
+      "gameId": "DRAN DIGITAL COLOR CHOICE BOOSTER - 1743674400000"
     }
   ]
 }
