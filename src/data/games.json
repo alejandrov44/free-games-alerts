@@ -160,6 +160,15 @@
       "productUrl": "https://store.steampowered.com/app/3534860/DRAN_DIGITAL_COLOR_CHOICE_BOOSTER/?snr=1_7_7_2300_150_1",
       "endDateDiscount": "2025-04-03T10:00:00.000Z",
       "gameId": "DRAN DIGITAL COLOR CHOICE BOOSTER - 1743674400000"
+    },
+    {
+      "platform": "Steam",
+      "title": "Amerzone: The Explorer’s Legacy (1999)",
+      "description": "The first adventure from the author of Syberia and Syberia 2, Benoît Sokal. In Amerzone you'll travel through enchanting landscapes, from Brittany to tropical forest. You'll have to solve the mystery of these famous white birds…",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/302190/header.jpg?t=1742487484",
+      "productUrl": "https://store.steampowered.com/app/302190/Amerzone_The_Explorers_Legacy_1999/?snr=1_7_7_2300_150_1",
+      "endDateDiscount": "2025-03-24T10:00:00.000Z",
+      "gameId": "Amerzone: The Explorer’s Legacy (1999) - 1742810400000"
     }
   ]
 }
