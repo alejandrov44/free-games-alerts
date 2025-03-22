@@ -2,6 +2,7 @@ import { CheerioAPI, load } from "cheerio";
 import { EpicResponse, GogResponse } from "./crawler/interfaces";
 import { Header } from "./interfaces";
 import { Methods } from "./enums";
+import axios, { AxiosError, AxiosHeaders, AxiosRequestConfig } from "axios";
 
 const getHeaders = (headers: Header[]): Headers => {
   const headerObject = new Headers();
@@ -22,8 +23,22 @@ export const getHTMLRequest = async (url: string, headers?: Header[]): Promise<C
   return html;
 };
 
-export const postRequest = async (url: string, body: any, headers?: Header[]): Promise<void> => {
-  const fetchConfig: RequestInit = { method: Methods.Post, headers: headers ? getHeaders(headers) : undefined, body };
-  const response = await fetch(url, fetchConfig);
-  if (!response.ok) console.log(response);
+export const postRequest = async (url: string, body: any, headers?: AxiosHeaders): Promise<void> => {
+  const config: AxiosRequestConfig = { method: Methods.Post, maxBodyLength: Infinity, url, headers, data: body };
+  console.log(config);
+  try {
+    const response = await axios.request(config);
+    console.dir(`Webhook Sended: ${response.statusText}`);
+  } catch (error: any) {
+    if (!(error instanceof AxiosError)) throw new Error(error);
+    if (error.response) {
+      console.log(error.response.data);
+      console.log(error.response.status);
+      console.log(error.response.headers);
+    } else if (error.request) {
+      console.log(error.request);
+    } else {
+      console.log("Error", error.message);
+    }
+  }
 };

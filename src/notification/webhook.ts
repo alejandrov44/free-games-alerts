@@ -1,3 +1,4 @@
+import { AxiosHeaders } from "axios";
 import { HeaderTypes, HeaderValues } from "../enums";
 import environmentVariables from "../environment";
 import { Game } from "../interfaces";
@@ -6,7 +7,7 @@ import { removeIlegalDiscordChars } from "../utilities";
 import { DiscordWebhookPayload } from "./interfaces";
 
 const webhookToken = Buffer.from(environmentVariables.discordWebhookToken || "", "base64").toString("utf8");
-const webhookUrl = `https://discord.com/api/webhooks/${environmentVariables.discordWebhookId}/${webhookToken}`;
+const webhookUrl = `https://discord.com/api/webhooks/${environmentVariables.discordWebhookId}/${webhookToken}?wait=true&with_components=false`;
 
 export const sendDiscordWebhook = async (gamesList: Game[]): Promise<void> => {
   const avatarUrl = "https://i.pinimg.com/originals/59/47/e3/5947e39172b6cc8d5c362a494ad5bc4f.jpg";
@@ -15,8 +16,9 @@ export const sendDiscordWebhook = async (gamesList: Game[]): Promise<void> => {
   for (let index = 0; index < gamesList.length; index += 1) {
     const actualIndex = Number(index);
     body.content = formatGameForWebhook(gamesList[actualIndex], actualIndex + 1);
-    const headers = [{ name: HeaderTypes.contentType, value: HeaderValues.contentType }];
+    const headers = new AxiosHeaders({ [HeaderTypes.contentType]: HeaderValues.contentType });
     await postRequest(webhookUrl, JSON.stringify(body), headers);
+    await new Promise((resolve) => setTimeout(resolve, 1000));
   }
 };
 

@@ -10,7 +10,7 @@ export enum HeaderTypes {
 }
 
 export enum HeaderValues {
-  contentType = "application/json;charset=UTF-7",
+  contentType = "application/json; charset=UTF-8",
   steamCookie = "lastagecheckage=1-January-1999; birthtime=915170401; wants_mature_content=1",
 }
 
