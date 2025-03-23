@@ -1,17 +1,17 @@
+import path from "node:path";
 import dotenv from "dotenv-safe";
 import { validatDiscordWebhookId, validateDiscordWebhookToken } from "./utilities";
-import path from "node:path";
 
 dotenv.config({ example: path.resolve(import.meta.dirname, "../.env.example") });
 
 interface EnvironmentVariables {
-  discordWebhookToken: string;
   discordWebhookId: string;
+  discordWebhookToken: string;
 }
 
 enum EnvironmentVariablesMap {
-  discordWebhookToken = "DISCORD_WEBHOOK_TOKEN",
   discordWebhookId = "DISCORD_WEBHOOK_ID",
+  discordWebhookToken = "DISCORD_WEBHOOK_TOKEN",
 }
 
 const environmentVariables: EnvironmentVariables = {

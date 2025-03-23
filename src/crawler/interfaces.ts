@@ -1,13 +1,13 @@
 export interface EpicApiGameInfo {
-  title: string;
+  catalogNs: { mappings: [{ pageSlug: string }] };
   description: string;
+  keyImages: [{ url: string }];
   promotions?: {
     promotionalOffers?: [
       { promotionalOffers?: [{ discountSetting: { discountPercentage: number }; endDate: string }] },
     ];
   };
-  keyImages: [{ url: string }];
-  catalogNs: { mappings: [{ pageSlug: string }] };
+  title: string;
 }
 
 export interface EpicResponse {
@@ -15,9 +15,9 @@ export interface EpicResponse {
 }
 
 export interface GogApiGameInfo {
-  title: string;
   coverHorizontal: string;
   storeLink: string;
+  title: string;
 }
 
 export interface GogResponse {

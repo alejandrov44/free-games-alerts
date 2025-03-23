@@ -2,23 +2,27 @@
   "name": "free-games-alerts",
   "version": "1.0.0",
   "description": "Quick and easy way to get notified from all kind of new free games available from different platforms to claim.",
-  "main": "index.ts",
+  "license": "MIT",
+  "author": "alejandrov44",
   "type": "module",
+  "main": "index.ts",
   "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint --cache .",
+    "lint:format": "prettier --cache --check .",
     "send_free_games_alert": "npx tsx src/index.ts"
   },
-  "author": "alejandrov44",
-  "license": "MIT",
   "devDependencies": {
-    "@alejandrov44/eslint-config": "^0.3.2",
-    "@types/node": "^22.10.10",
-    "tsx": "^4.19.3",
-    "typescript": "^5.7.3"
-  },
-  "dependencies": {
+    "@alejandrov44/eslint-config": "^0.5.0",
+    "@ianvs/prettier-plugin-sort-imports": "^4.4.1",
     "@types/dotenv-safe": "^8.1.6",
+    "@types/node": "^22.10.10",
     "axios": "^1.8.4",
     "cheerio": "^1.0.0",
-    "dotenv-safe": "^9.1.0"
+    "dotenv-safe": "^9.1.0",
+    "prettier": "^3.5.3",
+    "prettier-plugin-packagejson": "^2.5.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
   }
 }

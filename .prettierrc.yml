@@ -1,0 +1,15 @@
+printWidth: 120
+tabWidth: 2
+useTabs: false
+semi: true
+singleQuote: false
+quoteProps: "as-needed"
+jsxSingleQuote: false
+trailingComma: "all"
+bracketSpacing: true
+objectWrap: "collapse"
+bracketSameLine: true
+arrowParens: "always"
+endOfLine: "crlf"
+importOrderParserPlugins: ["importAssertions", "typescript"]
+plugins: ["@ianvs/prettier-plugin-sort-imports", "prettier-plugin-packagejson"]

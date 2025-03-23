@@ -1,7 +1,7 @@
 import { GamePlatforms, HeaderTypes, HeaderValues } from "../enums";
 import { Game } from "../interfaces";
-import { EpicResponse } from "./interfaces";
 import { getApiRequest } from "../requests";
+import { EpicResponse } from "./interfaces";
 
 const freeGamesApiUrl = "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions";
 
@@ -17,14 +17,14 @@ export const fetchFreeEpicGames = async (): Promise<Game[]> => {
     )
     .map((offer) => {
       const game: Game = {
-        platform: GamePlatforms.Epic,
-        title: offer.title,
         description: offer.description,
-        imageUrl: offer.keyImages[0].url,
-        productUrl: `https://store.epicgames.com/es-ES/p/${offer.catalogNs.mappings[0].pageSlug}`,
         endDateDiscount: offer.promotions?.promotionalOffers?.[0].promotionalOffers
           ? new Date(offer.promotions.promotionalOffers[0].promotionalOffers[0].endDate)
           : undefined,
+        imageUrl: offer.keyImages[0].url,
+        platform: GamePlatforms.Epic,
+        productUrl: `https://store.epicgames.com/es-ES/p/${offer.catalogNs.mappings[0].pageSlug}`,
+        title: offer.title,
       };
       return game;
     });

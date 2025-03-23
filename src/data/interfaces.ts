@@ -1,11 +1,11 @@
 export interface JsonGame {
-  gameId: string;
-  platform: string;
-  title: string;
   description: string;
-  imageUrl: string;
-  productUrl: string;
   endDateDiscount?: string;
+  gameId: string;
+  imageUrl: string;
+  platform: string;
+  productUrl: string;
+  title: string;
 }
 
 export interface HistoricalGamesJson {

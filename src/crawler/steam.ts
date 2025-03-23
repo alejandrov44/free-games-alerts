@@ -24,26 +24,28 @@ export const fetchSteamGames = async (): Promise<Game[]> => {
 export const fetchSteamGameInfo = async (gameUrl: string): Promise<Game> => {
   const $ = await getHTMLRequest(gameUrl, headers);
   const game: Game = {
-    platform: GamePlatforms.Steam,
-    title: $("div#appHubAppName").text(),
     description: $('meta[property="og:description"]').attr("content") ?? "",
-    imageUrl: $("img.game_header_image_full").attr("src") ?? "",
-    productUrl: gameUrl,
     endDateDiscount: getSteamEndOfferDay($('p[class="game_purchase_discount_quantity "]').text()),
+    imageUrl: $("img.game_header_image_full").attr("src") ?? "",
+    platform: GamePlatforms.Steam,
+    productUrl: gameUrl,
+    title: $("div#appHubAppName").text(),
   };
   return game;
 };
 
 export const getSteamEndOfferDay = (rawDateText: string): Date | undefined => {
   const regexDay = /\s(\d{1,2})\s/i;
-  const regexMonth = /\s(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)/i;
+  const regexMonth = /\s(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)/i;
   const regexHours = /(\d{1,2}):(\d{1,2})\s?(am|pm)/i;
 
   const matchDay = regexDay.exec(rawDateText);
   const matchMonth = regexMonth.exec(rawDateText);
   const matchHours = regexHours.exec(rawDateText);
 
-  if (!matchDay || !matchMonth || !matchHours) return undefined;
+  if (!matchDay || !matchMonth || !matchHours) {
+    return undefined;
+  }
 
   const day = Number.parseInt(matchDay[1], 10);
   const monthName = matchMonth[1];

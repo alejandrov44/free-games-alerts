@@ -14,7 +14,9 @@ export const checkNewGames = async (actualFreeGames: Game[]): Promise<Game[]> =>
     const json = JSON.parse(fileData) as HistoricalGamesJson;
     storedGames = json.games;
   } catch (error) {
-    if ((error as NodeJS.ErrnoException).code !== "ENOENT") throw error;
+    if ((error as NodeJS.ErrnoException).code !== "ENOENT") {
+      throw error;
+    }
   }
 
   // Filter out games that are already stored
@@ -23,12 +25,14 @@ export const checkNewGames = async (actualFreeGames: Game[]): Promise<Game[]> =>
   for (const actualFreeGame of actualFreeGames) {
     const gameId = `${actualFreeGame.title} - ${actualFreeGame.endDateDiscount?.getTime()}`;
     if (!storedGames.some((storedGame) => storedGame.gameId === gameId)) {
-      const game: JsonGame = { ...actualFreeGame, gameId, endDateDiscount: actualFreeGame.endDateDiscount?.toJSON() };
+      const game: JsonGame = { ...actualFreeGame, endDateDiscount: actualFreeGame.endDateDiscount?.toJSON(), gameId };
       gamesToAdd.push(game);
     }
   }
 
-  if (gamesToAdd.length === 0) return [];
+  if (gamesToAdd.length === 0) {
+    return [];
+  }
 
   storedGames.push(...gamesToAdd);
   await fs.writeFile(JSON_FILE_PATH, JSON.stringify({ games: storedGames }, undefined, 2), "utf8");

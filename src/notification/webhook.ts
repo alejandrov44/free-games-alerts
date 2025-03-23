@@ -12,7 +12,7 @@ const webhookUrl = `https://discord.com/api/webhooks/${environmentVariables.disc
 export const sendDiscordWebhook = async (gamesList: Game[]): Promise<void> => {
   const avatarUrl = "https://i.pinimg.com/originals/59/47/e3/5947e39172b6cc8d5c362a494ad5bc4f.jpg";
   const username = "Free Games Bot (by alejandrov44)";
-  const body: DiscordWebhookPayload = { username, avatar_url: avatarUrl };
+  const body: DiscordWebhookPayload = { avatar_url: avatarUrl, username };
   for (let index = 0; index < gamesList.length; index += 1) {
     const actualIndex = Number(index);
     body.content = formatGameForWebhook(gamesList[actualIndex], actualIndex + 1);

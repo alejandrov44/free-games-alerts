@@ -1,6 +1,4 @@
-node_modules
-
+/node_modules/
+/package-lock.json
+.eslintcache
 .env
-package-lock.json
-
-dist

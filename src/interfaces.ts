@@ -6,10 +6,10 @@ export interface Header {
 }
 
 export interface Game {
-  platform: GamePlatforms;
-  title: string;
   description: string;
-  imageUrl: string;
-  productUrl: string;
   endDateDiscount?: Date;
+  imageUrl: string;
+  platform: GamePlatforms;
+  productUrl: string;
+  title: string;
 }

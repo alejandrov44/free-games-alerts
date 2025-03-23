@@ -1,7 +1,7 @@
 export enum GamePlatforms {
-  Steam = "Steam",
   Epic = "Epic Games",
   Gog = "Gog",
+  Steam = "Steam",
 }
 
 export enum HeaderTypes {
@@ -20,16 +20,16 @@ export enum Methods {
 }
 
 export const monthMap: Record<string, number> = {
-  Jan: 0,
-  Feb: 1,
-  Mar: 2,
   Apr: 3,
-  May: 4,
-  Jun: 5,
-  Jul: 6,
   Aug: 7,
-  Sep: 8,
-  Oct: 9,
-  Nov: 10,
   Dec: 11,
+  Feb: 1,
+  Jan: 0,
+  Jul: 6,
+  Jun: 5,
+  Mar: 2,
+  May: 4,
+  Nov: 10,
+  Oct: 9,
+  Sep: 8,
 };
