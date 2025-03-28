@@ -23,7 +23,7 @@ export const fetchFreeEpicGames = async (): Promise<Game[]> => {
           : undefined,
         imageUrl: offer.keyImages[0].url,
         platform: GamePlatforms.Epic,
-        productUrl: `https://store.epicgames.com/es-ES/p/${offer.catalogNs.mappings[0].pageSlug}`,
+        productUrl: `https://store.epicgames.com/es-ES/p/${offer.productSlug}`,
         title: offer.title,
       };
       return game;
