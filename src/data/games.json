@@ -169,6 +169,33 @@
       "productUrl": "https://store.steampowered.com/app/302190/Amerzone_The_Explorers_Legacy_1999/?snr=1_7_7_2300_150_1",
       "endDateDiscount": "2025-03-24T10:00:00.000Z",
       "gameId": "Amerzone: The Explorer’s Legacy (1999) - 1742810400000"
+    },
+    {
+      "description": "Neko Ghost, Jump! is a puzzle-platformer where you not only switch between 2D & 3D camera perspectives but also between your physical & ghost forms to solve puzzles, combat enemies, and clear levels faster.",
+      "endDateDiscount": "2025-04-03T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Gift_1920x1080_wrap-b_1920x1080-d6e0c4f1fa0962bbb9b30317081c5b6d",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/neko-ghost-jump",
+      "title": "Neko Ghost, Jump!",
+      "gameId": "Neko Ghost, Jump! - 1743692400000"
+    },
+    {
+      "description": "The multi award-winning Action RPG. Cat Quest's loot-fuelled cat-venture is as beautifully crafted, as its combat and magic are ultra-satisfying. Universally adored by critics - it'll have you purring for joy!",
+      "endDateDiscount": "2025-04-03T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/CQ_Gift_1920x1080_wrap-b_1920x1080-d6743a93b51240dab421e4f48d0e95d5",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/cat-quest-8373e0",
+      "title": "Cat Quest",
+      "gameId": "Cat Quest - 1743692400000"
+    },
+    {
+      "description": "DRAN DIGITAL COLOR CHOICE BOOSTER Includes 3 types of BUSTER DRAN Blades, 6 types of 1-60 Ratchets, and 6 types of A Bits inspired by Shibuya! :BUSTER DRAN 1-60A",
+      "endDateDiscount": "2025-04-03T10:00:00.000Z",
+      "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3534860/c847f5bf0be8f5dd26efd78122708b7d47d7949d/header.jpg?t=1742530665",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3534860/_XONE/?snr=1_7_7_2300_150_1",
+      "title": "『ベイブレードエックス XONE』ドランデジタルカラーチョイスブースター",
+      "gameId": "『ベイブレードエックス XONE』ドランデジタルカラーチョイスブースター - 1743674400000"
     }
   ]
 }
