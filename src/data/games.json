@@ -196,6 +196,33 @@
       "productUrl": "https://store.steampowered.com/app/3534860/_XONE/?snr=1_7_7_2300_150_1",
       "title": "『ベイブレードエックス XONE』ドランデジタルカラーチョイスブースター",
       "gameId": "『ベイブレードエックス XONE』ドランデジタルカラーチョイスブースター - 1743674400000"
+    },
+    {
+      "description": "DRAN DIGITAL COLOR CHOICE BOOSTER Includes 3 types of BUSTER DRAN Blades, 6 types of 1-60 Ratchets, and 6 types of A Bits inspired by Shibuya! :BUSTER DRAN 1-60A",
+      "endDateDiscount": "2025-04-03T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3534860/c847f5bf0be8f5dd26efd78122708b7d47d7949d/header.jpg?t=1743498507",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3534860/BEYBLADE_X_XONE_DRAN_DIGITAL_COLOR_CHOICE_BOOSTER/?snr=1_7_7_2300_150_1",
+      "title": "\"BEYBLADE X XONE\" DRAN DIGITAL COLOR CHOICE BOOSTER",
+      "gameId": "\"BEYBLADE X XONE\" DRAN DIGITAL COLOR CHOICE BOOSTER - 1743674400000"
+    },
+    {
+      "description": "A collection of dozens of Aether-flavored microgames! Dive into the Dreams of Aether, where everyone is trapped in a never-ending nightmare! Meet some of the strangest characters Aether has to offer!",
+      "endDateDiscount": "2025-04-02T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3463050/94028b04f09a7dd96729ac429a5ecf200a172e62/header.jpg?t=1743527778",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3463050/Dreams_of_Aether/?snr=1_7_7_2300_150_1",
+      "title": "Dreams of Aether",
+      "gameId": "Dreams of Aether - 1743588000000"
+    },
+    {
+      "description": "Three Sisters is a goofy RPG featuring some cute little (not nightmare inducing) enemies and a story where nothing bad ever happens! Wait, what's that? You played the other games? crap.",
+      "endDateDiscount": "2025-04-04T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3584190/f156ca37cb73d91d6cefb7b69dd81bf96289103c/header.jpg?t=1743524241",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3584190/Three_Sisters/?snr=1_7_7_2300_150_1",
+      "title": "Three Sisters",
+      "gameId": "Three Sisters - 1743760800000"
     }
   ]
 }
