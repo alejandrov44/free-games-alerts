@@ -232,6 +232,33 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/cat-quest-ii-9dbefc",
       "title": "Cat Quest II",
       "gameId": "Cat Quest II - 1744297200000"
+    },
+    {
+      "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
+      "endDateDiscount": "2025-04-17T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-6yl1x.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/idle-champions-of-the-forgotten-realms",
+      "title": "Idle Champions of the Forgotten Realms",
+      "gameId": "Idle Champions of the Forgotten Realms - 1744902000000"
+    },
+    {
+      "description": "There's trouble again in River City, and this time only the girls can save the day! Using a variety of attacks, weapons, and items, these hot-blooded heroines are ready to teach the city’s lowlifes a lesson - solo or 2-player co-op! An old-school rumble for a new generation!",
+      "endDateDiscount": "2025-04-17T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a6eec1ad46bc4515be5731b22f274ef7/river-city-girls-chpr7.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/null",
+      "title": "River City Girls",
+      "gameId": "River City Girls - 1744902000000"
+    },
+    {
+      "description": "Jump into Arcadegeddon today and get 5,000 ARCoins\n\nRise up and play with up to three friends in this ever-evolving cooperative multiplayer, roguelite shooter. Explore multiple biomes, mini games, find hidden chests, and defeat numerous enemies and bosses.",
+      "endDateDiscount": "2025-04-17T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/bdf9183a47b8449d99ad5c233ca15a5d/arcadegeddon-1rdm8.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/null",
+      "title": "Arcadegeddon",
+      "gameId": "Arcadegeddon - 1744902000000"
     }
   ]
 }
