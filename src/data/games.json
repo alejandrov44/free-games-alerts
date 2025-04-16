@@ -268,6 +268,15 @@
       "productUrl": "https://store.steampowered.com/app/286690/Metro_2033_Redux/?snr=1_7_7_2300_150_1",
       "title": "Metro 2033 Redux",
       "gameId": "Metro 2033 Redux - 1744790400000"
+    },
+    {
+      "description": "AtmaSphere is roll-a-ball game set in a medieval world which is full of dangerous traps and uncertain paths! Roll all you want, but don't fall off! Collect all diamonds to impress Ballerina, and get Ballard safely to her house!",
+      "endDateDiscount": "2025-04-23T10:00:00.000Z",
+      "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/753660/header.jpg?t=1744821880",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/753660/AtmaSphere/?snr=1_7_7_2300_150_1",
+      "title": "AtmaSphere",
+      "gameId": "AtmaSphere - 1745402400000"
     }
   ]
 }
