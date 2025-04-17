@@ -16,6 +16,7 @@ export const fetchFreeEpicGames = async (): Promise<Game[]> => {
         offer.promotions.promotionalOffers[0].promotionalOffers[0].discountSetting.discountPercentage === 0,
     )
     .map((offer) => {
+      const url = offer.productSlug || offer.offerMappings[0].pageSlug;
       const game: Game = {
         description: offer.description,
         endDateDiscount: offer.promotions?.promotionalOffers?.[0].promotionalOffers
@@ -23,7 +24,7 @@ export const fetchFreeEpicGames = async (): Promise<Game[]> => {
           : undefined,
         imageUrl: offer.keyImages[0].url,
         platform: GamePlatforms.Epic,
-        productUrl: `https://store.epicgames.com/es-ES/p/${offer.productSlug}`,
+        productUrl: `https://store.epicgames.com/es-ES/p/${url}`,
         title: offer.title,
       };
       return game;
