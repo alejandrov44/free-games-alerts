@@ -277,6 +277,24 @@
       "productUrl": "https://store.steampowered.com/app/753660/AtmaSphere/?snr=1_7_7_2300_150_1",
       "title": "AtmaSphere",
       "gameId": "AtmaSphere - 1745402400000"
+    },
+    {
+      "description": "Firestone: Online Idle RPG is a multiplayer fantasy game with idle rpg mechanics. Collect heroes🧙‍♂️, upgrade their gear & skills, and sent them in AFK battles or go on an incremental clicker frenzy to beat monstrous bosses! Chat with guild friends or engage in PVP⚔️.",
+      "endDateDiscount": "2025-04-24T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-a5m7s.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/null",
+      "title": "Firestone Online Idle RPG",
+      "gameId": "Firestone Online Idle RPG - 1745506800000"
+    },
+    {
+      "description": "Five friends, little tree creatures, set out on a journey to save the last seed from their home tree which is infested by evil parasites.",
+      "endDateDiscount": "2025-04-24T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/ffe4df6e32664927a3423e4bde3b4051/botanicula-1uyy0.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/null",
+      "title": "Botanicula",
+      "gameId": "Botanicula - 1745506800000"
     }
   ]
 }
