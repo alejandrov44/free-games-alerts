@@ -322,6 +322,15 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/albion-online-epic-launch-promo-bundle-fd0e2a",
       "title": "Albion Online Free Welcome Gift",
       "gameId": "Albion Online Free Welcome Gift - 1746111600000"
+    },
+    {
+      "description": "Super Space Club is a lo-fi arcade space shooter to chill to. Defend a vibrant galaxy as a club of misfit heroes and battle endless waves of spacecrafts to the tune of atmospheric beats. Outlast your enemies and vibe to the rhythm of the stars.",
+      "endDateDiscount": "2025-05-08T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/d23691af8c7d42729f66d929c8609676/super-space-club-t55ij.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/super-space-club-20adbe",
+      "title": "Super Space Club",
+      "gameId": "Super Space Club - 1746716400000"
     }
   ]
 }
