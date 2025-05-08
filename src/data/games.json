@@ -340,6 +340,24 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/lego-star-wars-the-skywalker-saga",
       "title": "LEGO® Star Wars™: The Skywalker Saga",
       "gameId": "LEGO® Star Wars™: The Skywalker Saga - 1746457200000"
+    },
+    {
+      "description": "Touch Type Tale is a real-time strategy game with a typing twist, featuring a story rich campaign and online competitive play that will delight even the most hardened RTS veterans.",
+      "endDateDiscount": "2025-05-15T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S2_1200x1600-445c7e11e96c1b6aceece2007b58645d",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/touch-type-tale",
+      "title": "Touch Type Tale",
+      "gameId": "Touch Type Tale - 1747321200000"
+    },
+    {
+      "description": "Complete bounties, acquire legendary loot, upgrade your gear, and level up as you fight back against invading monsters in this side-scrolling looter shooter RPG.",
+      "endDateDiscount": "2025-05-15T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1r5me.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/deadtime-defenders-3e9fc8",
+      "title": "Deadtime Defenders",
+      "gameId": "Deadtime Defenders - 1747321200000"
     }
   ]
 }
