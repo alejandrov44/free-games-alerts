@@ -358,6 +358,42 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/deadtime-defenders-3e9fc8",
       "title": "Deadtime Defenders",
       "gameId": "Deadtime Defenders - 1747321200000"
+    },
+    {
+      "description": "Happy Game",
+      "endDateDiscount": "2025-05-22T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day2wide1_2560x1440-172520950cf13ed61da47e4dfd394459",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/happy-game-35a105",
+      "title": "Happy Game",
+      "gameId": "Happy Game - 1747926000000"
+    },
+    {
+      "description": "Dead Island 2",
+      "endDateDiscount": "2025-05-22T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day1wide_2560x1440-fdc688ce46680914ee3c4a7949ce8a67",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/dead-island-2",
+      "title": "Dead Island 2",
+      "gameId": "Dead Island 2 - 1747926000000"
+    },
+    {
+      "description": "As a true chaotic Nub warrior, your skills will be put to the ultimate test in a trap-filled arena. Arm yourself with a can-o-beanz, Burny-Hogz-Stick, or a fish as you battle your way to the top in short fast-paced multiplayer brawls.",
+      "endDateDiscount": "2025-05-16T06:00:00.000Z",
+      "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2337860/bf18a1e2d6308f42a501efdaaa266ae6f6bd1273/header.jpg?t=1747315360",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2337860/Nubs_Arena/?snr=1_7_7_2300_150_1",
+      "title": "Nubs! Arena",
+      "gameId": "Nubs! Arena - 1747375200000"
+    },
+    {
+      "description": "Easier to command than she is to pronounce, this battleship doesn’t beat about the bush—big guns, rock-solid armor, good survivability. ‘Nough said.",
+      "endDateDiscount": "2025-05-23T11:00:00.000Z",
+      "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1739020/header.jpg?t=1747254306",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1739020/World_of_Warships__Oktyabrskaya_Revolutsiya/?snr=1_7_7_2300_150_1",
+      "title": "World of Warships — Oktyabrskaya Revolutsiya",
+      "gameId": "World of Warships — Oktyabrskaya Revolutsiya - 1747998000000"
     }
   ]
 }
