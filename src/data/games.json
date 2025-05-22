@@ -403,6 +403,66 @@
       "productUrl": "https://store.steampowered.com/app/3032020/Cast__Spell/?snr=1_7_7_2300_150_1",
       "title": "Cast & Spell",
       "gameId": "Cast & Spell - 1747742400000"
+    },
+    {
+      "description": "Sifu",
+      "endDateDiscount": "2025-05-29T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day3wide_1920x1080-1df3ab45b895adfee06b011673df20aa",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/sifu",
+      "title": "Sifu",
+      "gameId": "Sifu - 1748530800000"
+    },
+    {
+      "description": "Gigapocalypse",
+      "endDateDiscount": "2025-05-29T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/day5wide_2560x1440-cfedc75b3acfde245f0178d3de44bb17",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/gigapocalypse-fdc53b",
+      "title": "Gigapocalypse",
+      "gameId": "Gigapocalypse - 1748530800000"
+    },
+    {
+      "description": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Join Winston Green, a down-on-his-luck courier with a fiery temper and a mysterious past — as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
+      "endDateDiscount": "2025-05-29T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day4wide_2560x1440-6c3e68829f8277aca2b7399160bad072",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/deliver-at-all-costs-a30c8d",
+      "title": "Deliver At All Costs",
+      "gameId": "Deliver At All Costs - 1748530800000"
+    },
+    {
+      "description": "Warhammer 40,000: Gladius – Relics of War brings you to a world of terror and violence. Four factions will engage in a brutal war for dominance over the planet’s resources. In the first turn-based 4X strategy game set in Warhammer 40,000 you will lead one of four unique factions.",
+      "endDateDiscount": "2025-05-26T10:00:00.000Z",
+      "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/489630/d6c4421339f92ea8c366dd2114e1ff1fbd3fb168/header_alt_assets_3.jpg?t=1747933905",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/?snr=1_7_7_2300_150_1",
+      "title": "Warhammer 40,000: Gladius - Relics of War",
+      "gameId": "Warhammer 40,000: Gladius - Relics of War - 1748253600000"
+    },
+    {
+      "description": "This DLC adds the Lord of Skulls as a new neutral unit roaming the battlefields of Gladius Prime!",
+      "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/870540/header.jpg?t=1674657014",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/870540/Warhammer_40000_Gladius__Lord_of_Skulls/?snr=1_7_7_2300_150_1",
+      "title": "Warhammer 40,000: Gladius - Lord of Skulls",
+      "gameId": "Warhammer 40,000: Gladius - Lord of Skulls - undefined"
+    },
+    {
+      "description": "The beautiful Soundtrack composed by Dan Bewick (an experienced composer who also composed the soundtrack for Warhammer 40,000: Armageddon and many other games) is a testament to the ragged battlefields of the Warhammer 40,000 universe and the mighty armies waging eternal war…",
+      "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/870530/header.jpg?t=1674657169",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/870530/Warhammer_40000_Gladius__Relics_of_War__Soundtrack/?snr=1_7_7_2300_150_1",
+      "title": "Warhammer 40,000: Gladius - Relics of War - Soundtrack",
+      "gameId": "Warhammer 40,000: Gladius - Relics of War - Soundtrack - undefined"
+    },
+    {
+      "description": "Seven beautiful wallpapers featuring illustrations drawn by the talented Kamila Szutenberg.",
+      "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/870550/header.jpg?t=1674657212",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/870550/Warhammer_40000_Gladius__Relics_of_War__Wallpapers/?snr=1_7_7_2300_150_1",
+      "title": "Warhammer 40,000: Gladius - Relics of War - Wallpapers",
+      "gameId": "Warhammer 40,000: Gladius - Relics of War - Wallpapers - undefined"
     }
   ]
 }
