@@ -463,6 +463,24 @@
       "productUrl": "https://store.steampowered.com/app/870550/Warhammer_40000_Gladius__Relics_of_War__Wallpapers/?snr=1_7_7_2300_150_1",
       "title": "Warhammer 40,000: Gladius - Relics of War - Wallpapers",
       "gameId": "Warhammer 40,000: Gladius - Relics of War - Wallpapers - undefined"
+    },
+    {
+      "description": "Tiny Tina's Wonderlands",
+      "endDateDiscount": "2025-06-05T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Tinytinawide_2560x1440-ba126bdeac3faab0596b7c56e9c09990",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/tiny-tinas-wonderlands",
+      "title": "Tiny Tina's Wonderlands",
+      "gameId": "Tiny Tina's Wonderlands - 1749135600000"
+    },
+    {
+      "description": "Limbo is an award-winning indie adventure, critically acclaimed for its captivating puzzle design and immersive sound and visuals. Its dark, misty spaces and haunting narrative will stay with you forever.",
+      "endDateDiscount": "2025-06-05T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day7wide_2560x1440-6c93379907b03def09fcd60c6677a5d9",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/limbo",
+      "title": "Limbo",
+      "gameId": "Limbo - 1749135600000"
     }
   ]
 }
