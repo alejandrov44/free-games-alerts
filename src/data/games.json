@@ -524,6 +524,42 @@
       "productUrl": "https://store.steampowered.com/app/1608450/Hellslave/?snr=1_7_7_2300_150_1",
       "title": "Hellslave",
       "gameId": "Hellslave - 1750068000000"
+    },
+    {
+      "description": "Explore the wonderful world with baby Ogu! 'Ogu and the Secret Forest' is a 2D adventure game with hand-drawn characters and various types of puzzles. Befriend bouncy characters and defeat strange creatures to unravel the mystery of the charming world.",
+      "endDateDiscount": "2025-06-12T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day9wide_2560x1440-f6421d67946917c410a33f9c7a3abaed",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/ogu-and-the-secret-forest-ffc421",
+      "title": "Ogu and the Secret Forest",
+      "gameId": "Ogu and the Secret Forest - 1749740400000"
+    },
+    {
+      "description": "DEATHLOOP",
+      "endDateDiscount": "2025-06-12T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day8wide_2560x1440-bf6d342edbd2411ccf24e326852fca93",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/deathloop",
+      "title": "DEATHLOOP",
+      "gameId": "DEATHLOOP - 1749740400000"
+    },
+    {
+      "description": "The Ultimate Vault Hunter’s Upgrade lets you get the most out of the Borderlands 2 experience.",
+      "endDateDiscount": "2025-06-08T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1748455098",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/49520/Borderlands_2/?snr=1_7_7_2300_150_1",
+      "title": "Borderlands 2",
+      "gameId": "Borderlands 2 - 1749376800000"
+    },
+    {
+      "description": "Buy Tour de France 2025 - Team Visma | Lease a Bike Pack and get historic Tour de France cycling jerseys from the cycling team.",
+      "endDateDiscount": "2025-06-12T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3481250/230f29280143e8dcc8533a59d4aa18eeb51271da/header.jpg?t=1749110539",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3481250/Tour_de_France_2025__Team_Visma_Lease_a_Bike_Pack/?snr=1_7_7_2300_150_1",
+      "title": "Tour de France 2025 - Team Visma Lease a Bike Pack",
+      "gameId": "Tour de France 2025 - Team Visma Lease a Bike Pack - 1749722400000"
     }
   ]
 }
