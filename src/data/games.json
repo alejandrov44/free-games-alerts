@@ -578,6 +578,24 @@
       "productUrl": "https://store.steampowered.com/app/2752710/WHAT_THE_PAK/?snr=1_7_7_2300_150_1",
       "title": "WHAT THE PAK?!",
       "gameId": "WHAT THE PAK?! - 1750734000000"
+    },
+    {
+      "description": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
+      "endDateDiscount": "2025-06-19T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S2_1200x1600-8bd004a67b677888a8a1510bde5aa586",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/two-point-hospital",
+      "title": "Two Point Hospital",
+      "gameId": "Two Point Hospital - 1750345200000"
+    },
+    {
+      "description": "Paradox Soul is a chilling fight for exploration and survival; a Metroidvania pixel action-shooter hybrid!",
+      "endDateDiscount": "2025-06-17T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/610570/header.jpg?t=1749845967",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/610570/Paradox_Soul/?snr=1_7_7_2300_150_1",
+      "title": "Paradox Soul",
+      "gameId": "Paradox Soul - 1750154400000"
     }
   ]
 }
