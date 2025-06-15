@@ -16,7 +16,8 @@ export const fetchFreeEpicGames = async (): Promise<Game[]> => {
         offer.promotions.promotionalOffers[0].promotionalOffers[0].discountSetting.discountPercentage === 0,
     )
     .map((offer) => {
-      const url = offer.productSlug || offer.offerMappings[0].pageSlug || offer.catalogNs.mappings[0].pageSlug;
+      const url =
+        offer?.productSlug || offer?.offerMappings?.[0]?.pageSlug || offer?.catalogNs?.mappings?.[0]?.pageSlug;
       const game: Game = {
         description: offer.description,
         endDateDiscount: offer.promotions?.promotionalOffers?.[0].promotionalOffers
