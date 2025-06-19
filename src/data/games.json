@@ -596,6 +596,24 @@
       "productUrl": "https://store.steampowered.com/app/610570/Paradox_Soul/?snr=1_7_7_2300_150_1",
       "title": "Paradox Soul",
       "gameId": "Paradox Soul - 1750154400000"
+    },
+    {
+      "description": "Welcome to the FDI. As our newest Operator, your role is to use your detective skills to assist our field agents and investigate mysterious crimes. Use cutting-edge FDI software to dig for clues, solve puzzles, and uncover the truth.",
+      "endDateDiscount": "2025-06-26T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-4mdnk.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/the-operator-b835e9",
+      "title": "The Operator",
+      "gameId": "The Operator - 1750950000000"
+    },
+    {
+      "description": "Transform your office into the perfect workplace with the ARCHITECT'S HOME OFFICE pack, and design spaces where every detail enhances your creativity and focus!",
+      "endDateDiscount": "2025-06-26T10:00:00.000Z",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478930/b63f5602e20608e783f62bae3995e54d1fc9d77c/header.jpg?t=1750320150",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3478930/Architect_Life__Architects_Home_Office/?snr=1_7_7_2300_150_1",
+      "title": "Architect Life - Architect's Home Office",
+      "gameId": "Architect Life - Architect's Home Office - 1750932000000"
     }
   ]
 }
