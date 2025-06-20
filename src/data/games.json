@@ -614,6 +614,15 @@
       "productUrl": "https://store.steampowered.com/app/3478930/Architect_Life__Architects_Home_Office/?snr=1_7_7_2300_150_1",
       "title": "Architect Life - Architect's Home Office",
       "gameId": "Architect Life - Architect's Home Office - 1750932000000"
+    },
+    {
+      "description": "One year after the events of Episode I, Captain Pilgrim is once again carrying a shipload of passengers between star systems. This time her guests include a mysterious priestess, a wayward youth and a robotics genius.",
+      "endDateDiscount": "2025-06-26T10:00:00.000Z",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431710/header.jpg?t=1750436684",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/431710/Space_Pilgrim_Episode_II_Epsilon_Indi/?snr=1_7_7_2300_150_1",
+      "title": "Space Pilgrim Episode II: Epsilon Indi",
+      "gameId": "Space Pilgrim Episode II: Epsilon Indi - 1750932000000"
     }
   ]
 }
