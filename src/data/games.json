@@ -623,6 +623,15 @@
       "productUrl": "https://store.steampowered.com/app/431710/Space_Pilgrim_Episode_II_Epsilon_Indi/?snr=1_7_7_2300_150_1",
       "title": "Space Pilgrim Episode II: Epsilon Indi",
       "gameId": "Space Pilgrim Episode II: Epsilon Indi - 1750932000000"
+    },
+    {
+      "description": "SteamWorld Dig is an action-adventure puzzler with strong Metroidvanian influences set in the SteamWorld Universe. You’ll need to dig deep into the earth, gather resources to upgrade your tools and abilities, take on enemies, solve challenging puzzles and uncover the secrets to save a dying town.",
+      "endDateDiscount": "2025-06-26T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252410/header.jpg?t=1746215433",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/252410/SteamWorld_Dig/?snr=1_7_7_2300_150_1",
+      "title": "SteamWorld Dig",
+      "gameId": "SteamWorld Dig - 1750932000000"
     }
   ]
 }
