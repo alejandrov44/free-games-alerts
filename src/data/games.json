@@ -632,6 +632,24 @@
       "productUrl": "https://store.steampowered.com/app/252410/SteamWorld_Dig/?snr=1_7_7_2300_150_1",
       "title": "SteamWorld Dig",
       "gameId": "SteamWorld Dig - 1750932000000"
+    },
+    {
+      "description": "Embark on a unique and unforgettable journey and guide Sable through her Gliding; a rite of passage that will take her across vast deserts and mesmerizing landscapes, capped by the remains of spaceships and ancient wonders.",
+      "endDateDiscount": "2025-07-03T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/sable",
+      "title": "Sable",
+      "gameId": "Sable - 1751554800000"
+    },
+    {
+      "description": "NEXT JUMP is a turn-based, tactics Shoot 'em up. Do space-jumps on procedurally generated boards and chase the vicious Dragons who stole all the stock of Beverage from the Galaxy!",
+      "endDateDiscount": "2025-07-01T10:00:00.000Z",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/624690/header.jpg?t=1750948305",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/624690/NEXT_JUMP_Shmup_Tactics/?snr=1_7_7_2300_150_1",
+      "title": "NEXT JUMP: Shmup Tactics",
+      "gameId": "NEXT JUMP: Shmup Tactics - 1751364000000"
     }
   ]
 }
