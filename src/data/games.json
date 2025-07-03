@@ -659,6 +659,33 @@
       "productUrl": "https://store.steampowered.com/app/1356040/Ampersat/?snr=1_7_7_2300_150_1",
       "title": "Ampersat",
       "gameId": "Ampersat - 1751796000000"
+    },
+    {
+      "description": "Figment is an action-adventure game that invites you to explore a unique surreal universe filled with music, humor and multi layered narrative.",
+      "endDateDiscount": "2025-07-10T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/offer/EGS_Figment_BedtimeDigitalGames_S2-860x1148-6470fca68f6a5b0a56a9033f83ab9afd.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/figment/home",
+      "title": "Figment",
+      "gameId": "Figment - 1752159600000"
+    },
+    {
+      "description": "The inventory management roguelike! Collect rare items, organize your backpack, and vanquish your foes!",
+      "endDateDiscount": "2025-07-10T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-15jsl.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/backpack-hero-449c5e",
+      "title": "Backpack Hero",
+      "gameId": "Backpack Hero - 1752159600000"
+    },
+    {
+      "description": "Played by over 20 million Adventurers - Black Desert Online is an open-world, action MMORPG. Experience intense, action-packed combat, battle massive world bosses, fight alongside friends to siege and conquer castles, and train in professions such as fishing, trading, crafting, cooking, and more!",
+      "endDateDiscount": "2025-07-10T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582660/header.jpg?t=1751486296",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/582660/Black_Desert/?snr=1_7_7_2300_150_1",
+      "title": "Black Desert",
+      "gameId": "Black Desert - 1752141600000"
     }
   ]
 }
