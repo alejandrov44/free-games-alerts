@@ -686,6 +686,60 @@
       "productUrl": "https://store.steampowered.com/app/582660/Black_Desert/?snr=1_7_7_2300_150_1",
       "title": "Black Desert",
       "gameId": "Black Desert - 1752141600000"
+    },
+    {
+      "description": "Sky Racket is a game that mixes two classic genres from the Arcade era: Shoot’em up and Brick Breakers. In a world where you are unable to attack, using your racket to strike enemy bullets back at them is your only option! Bounce bullets back at your foes and save the galaxy!",
+      "endDateDiscount": "2025-07-17T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt/39e680de-9f71-4475-b5dd-e25ffc8ed026/sky-racket-offer-30e7f1bd.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/sky-racket-4cf23a",
+      "title": "Sky Racket",
+      "gameId": "Sky Racket - 1752764400000"
+    },
+    {
+      "description": "Figment 2: Creed Valley is an action-adventure game set in the human mind. Nightmares are spreading chaos and have overrun once-peaceful lands. Join Dusty, The Mind’s courage, as you make your way through puzzles, musical boss fights and unique environments.",
+      "endDateDiscount": "2025-07-17T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Figment2CreedValley_BedtimeDigitalGames_S1_2560x1440-c799fc78fe47bda5cf8a1bb205ca134f",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/figment2-creed-valley",
+      "title": "Figment 2: Creed Valley",
+      "gameId": "Figment 2: Creed Valley - 1752764400000"
+    },
+    {
+      "description": "In Battlestar Galactica Deadlock™ you’ll take command of the Colonial Fleet in defense of the Twelve Colonies during the First Cylon War. Lead many different types of ships in this 3D tactical game. Every decision counts, your strategy will be vital – can you ensure mankind’s survival?",
+      "endDateDiscount": "2025-07-17T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/544610/header.jpg?t=1745952509",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/544610/Battlestar_Galactica_Deadlock/?snr=1_7_7_2300_150_1",
+      "title": "Battlestar Galactica Deadlock",
+      "gameId": "Battlestar Galactica Deadlock - 1752746400000"
+    },
+    {
+      "description": "Field of Glory II Medieval is a turn-based tactical game set in the High Middle Ages from 1040 AD to 1270 AD. Developed by legendary designer Richard Bodley Scott it brings the best from the tabletop world into the best digital framework.",
+      "endDateDiscount": "2025-07-17T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1368870/header.jpg?t=1745952784",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1368870/Field_of_Glory_II_Medieval/?snr=1_7_7_2300_150_1",
+      "title": "Field of Glory II: Medieval",
+      "gameId": "Field of Glory II: Medieval - 1752746400000"
+    },
+    {
+      "description": "The fantasy wargaming classic is back! Lead powerful heroes and mighty armies into battle in this critically acclaimed turn-based strategy milestone. Level up and train your units and guide them through a gripping story campaign to decide the fate of a world on the brink of destruction.",
+      "endDateDiscount": "2025-07-17T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1025440/header.jpg?t=1745952562",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1025440/Fantasy_General_II/?snr=1_7_7_2300_150_1",
+      "title": "Fantasy General II",
+      "gameId": "Fantasy General II - 1752746400000"
+    },
+    {
+      "description": "Caribbean Crashers is a fast paced pirate strategy game where you control your own ship and fire cannonballs at enemy vessels to secure victory!",
+      "endDateDiscount": "2025-07-17T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2921380/header.jpg?t=1751468116",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2921380/Caribbean_Crashers/?snr=1_7_7_2300_150_1",
+      "title": "Caribbean Crashers",
+      "gameId": "Caribbean Crashers - 1752746400000"
     }
   ]
 }
