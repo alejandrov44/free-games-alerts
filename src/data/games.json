@@ -776,6 +776,15 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/legion-td-2-a244b9",
       "title": "Legion TD 2",
       "gameId": "Legion TD 2 - 1753974000000"
+    },
+    {
+      "description": "Barro's new gen!",
+      "endDateDiscount": "2025-08-04T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1990740/header.jpg?t=1752000284",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1990740/Barro_GT/?snr=1_7_7_2300_150_1",
+      "title": "Barro GT",
+      "gameId": "Barro GT - 1754301600000"
     }
   ]
 }
