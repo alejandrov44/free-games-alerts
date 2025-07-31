@@ -785,6 +785,24 @@
       "productUrl": "https://store.steampowered.com/app/1990740/Barro_GT/?snr=1_7_7_2300_150_1",
       "title": "Barro GT",
       "gameId": "Barro GT - 1754301600000"
+    },
+    {
+      "description": "Roam the land as you please and make new friends, share a laugh with your fellow travelers and help them complete their little stories, your way. How many different solutions can you find?",
+      "endDateDiscount": "2025-08-07T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-jgz8i.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/pilgrims-6d250f",
+      "title": "Pilgrims",
+      "gameId": "Pilgrims - 1754578800000"
+    },
+    {
+      "description": "Keylocker is a Cyberpunk turn-based rhythm JRPG. As the electric singer, B0B0, you’ll choose your class, master a challenging combat system, and shake the foundations of Saturnite society in rhythm-game style!",
+      "endDateDiscount": "2025-08-07T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/186103570e674b0f9b60a1003ec09d07/keylocker-cr3ty.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/keylocker-622bcc",
+      "title": "Keylocker | Turn Based Cyberpunk Action",
+      "gameId": "Keylocker | Turn Based Cyberpunk Action - 1754578800000"
     }
   ]
 }
