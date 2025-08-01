@@ -803,6 +803,24 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/keylocker-622bcc",
       "title": "Keylocker | Turn Based Cyberpunk Action",
       "gameId": "Keylocker | Turn Based Cyberpunk Action - 1754578800000"
+    },
+    {
+      "description": "Dracomaton is a top-down roguelike bullet hell about Eclipse, a small robot who awakens in an abandoned factory filled with corrupted training bots and the secrets of cosmic dragons. Fight your way to the top of the tower by transforming your robot body, changing your entire arsenal on the fly!",
+      "endDateDiscount": "2025-08-04T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2457890/header.jpg?t=1748456623",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2457890/DRACOMATON/?snr=1_7_7_2300_150_1",
+      "title": "DRACOMATON",
+      "gameId": "DRACOMATON - 1754301600000"
+    },
+    {
+      "description": "Kitchen Wars is a fast-paced party game with 2-8 players that plunges players into the chaos of a restaurant, where they must engage in strategic fights and theft while serving their customers.",
+      "endDateDiscount": "2025-08-04T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2955840/header.jpg?t=1754064334",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2955840/Kitchen_Wars/?snr=1_7_7_2300_150_1",
+      "title": "Kitchen Wars",
+      "gameId": "Kitchen Wars - 1754301600000"
     }
   ]
 }
