@@ -821,6 +821,33 @@
       "productUrl": "https://store.steampowered.com/app/2955840/Kitchen_Wars/?snr=1_7_7_2300_150_1",
       "title": "Kitchen Wars",
       "gameId": "Kitchen Wars - 1754301600000"
+    },
+    {
+      "description": "Manage emergency services in any city in the world! Take calls and dispatch rescue forces. Handle difficult situations, now depending on the weather, and traffic. Help the citizens through cataclysms and natural disasters, becoming a better emergency number operator every day!",
+      "endDateDiscount": "2025-08-14T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1smmi.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/112-operator-f34b0b",
+      "title": "112 Operator",
+      "gameId": "112 Operator - 1755183600000"
+    },
+    {
+      "description": "Road Redemption lets you lead a biker gang on an epic journey across the country in this driving combat road rage adventure.",
+      "endDateDiscount": "2025-08-14T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-1upeb.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/road-redemption-ce16fb",
+      "title": "Road Redemption",
+      "gameId": "Road Redemption - 1755183600000"
+    },
+    {
+      "description": "Guntouchables is an online co-op doomsday roguelite for 1-4 players. You play as a gun-toting group of 'preppers' trying to reclaim the world from an ever-evolving horde of mutants, constantly working to develop new unique ways to kill you.",
+      "endDateDiscount": "2025-08-08T01:00:00.000Z",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543510/98d544c7a4a44d721cf47ae418788af44314bab6/header_alt_assets_2.jpg?t=1754577029",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2543510/GUNTOUCHABLES/?snr=1_7_7_2300_150_1",
+      "title": "GUNTOUCHABLES",
+      "gameId": "GUNTOUCHABLES - 1754614800000"
     }
   ]
 }
