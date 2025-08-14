@@ -848,6 +848,24 @@
       "productUrl": "https://store.steampowered.com/app/2543510/GUNTOUCHABLES/?snr=1_7_7_2300_150_1",
       "title": "GUNTOUCHABLES",
       "gameId": "GUNTOUCHABLES - 1754614800000"
+    },
+    {
+      "description": "Buckle up your back brace and fire up the delivery truck, it's time to deliver! Join up to three friends and haphazardly get the job done in an interactive sandbox world. Delivery attempted, that's a Totally Reliable Delivery Service guarantee!",
+      "endDateDiscount": "2025-08-21T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-47e6e9562d62705a75ea7b7096d0b8dc.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/totally-reliable-delivery-service/home",
+      "title": "Totally Reliable Delivery Service Standard Edition",
+      "gameId": "Totally Reliable Delivery Service Standard Edition - 1755788400000"
+    },
+    {
+      "description": "Search for hidden folks in hand-drawn, interactive, miniature landscapes. Unfurl tent flaps, cut through bushes, slam doors, and poke some crocodiles! Rooooaaaarrrr!!!!!",
+      "endDateDiscount": "2025-08-21T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1b7hh.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/hidden-folks-239d16",
+      "title": "Hidden Folks",
+      "gameId": "Hidden Folks - 1755788400000"
     }
   ]
 }
