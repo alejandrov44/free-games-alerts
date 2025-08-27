@@ -893,6 +893,15 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/kamaeru-0c301e",
       "title": "Kamaeru",
       "gameId": "Kamaeru - 1756393200000"
+    },
+    {
+      "description": "DEAD IN BERMUDA is a survival management game with RPG and adventure elements. Lead a team of 8 survivors from a plane crash. Assign them to tasks, gain experience, develop your survival skills, research and craft new items, explore the island and solve its mysteries.",
+      "endDateDiscount": "2025-08-29T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/384310/header.jpg?t=1755126644",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/?snr=1_7_7_2300_150_1",
+      "title": "Dead In Bermuda",
+      "gameId": "Dead In Bermuda - 1756461600000"
     }
   ]
 }
