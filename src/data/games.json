@@ -929,6 +929,24 @@
       "productUrl": "https://store.steampowered.com/app/3506800/Walking_Survival/?snr=1_7_7_2300_150_1",
       "title": "Walking Survival",
       "gameId": "Walking Survival - 1756634400000"
+    },
+    {
+      "description": "Embark on a journey of forgiveness through impossible environments and illusionary puzzles. Experience this meditative and calming puzzle game by manipulating monuments and creating evolving paths to explore new, surreal, and mysterious worlds.",
+      "endDateDiscount": "2025-09-11T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/monument-valley-1d99d3",
+      "title": "Monument Valley",
+      "gameId": "Monument Valley - 1757602800000"
+    },
+    {
+      "description": "Behind Smith’s conventional appearance hides an unforgettable experience full of drifting and more torpedoes than you can count.",
+      "endDateDiscount": "2025-09-17T10:00:00.000Z",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934650/header.jpg?t=1757002758",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/934650/World_of_Warships__Smith_Pack/?snr=1_7_7_2300_150_1",
+      "title": "World of Warships — Smith Pack",
+      "gameId": "World of Warships — Smith Pack - 1758103200000"
     }
   ]
 }
