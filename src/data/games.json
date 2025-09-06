@@ -947,6 +947,15 @@
       "productUrl": "https://store.steampowered.com/app/934650/World_of_Warships__Smith_Pack/?snr=1_7_7_2300_150_1",
       "title": "World of Warships — Smith Pack",
       "gameId": "World of Warships — Smith Pack - 1758103200000"
+    },
+    {
+      "description": "Broilers is a turn-based game that resembles chess and similar board games, but only externally. The basis of almost all of the mechanics in Broilers, is selection (breeding). Learn how to breed new species and their characteristics in order to win the online challenge.",
+      "endDateDiscount": "2025-09-13T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562780/header.jpg?t=1756943867",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1562780/Broilers/?snr=1_7_7_2300_150_1",
+      "title": "Broilers",
+      "gameId": "Broilers - 1757757600000"
     }
   ]
 }
