@@ -956,6 +956,33 @@
       "productUrl": "https://store.steampowered.com/app/1562780/Broilers/?snr=1_7_7_2300_150_1",
       "title": "Broilers",
       "gameId": "Broilers - 1757757600000"
+    },
+    {
+      "description": "Ghostrunner 2 is a hardcore FPP slasher set in a post-apocalyptic, cyberpunk world. Featuring everything fans loved about Ghostrunner plus incredible boss fights, new interactive story, thrilling motorbike levels, improved skills, and more cyber ninja action. ",
+      "endDateDiscount": "2025-09-18T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S2_1200x1600-12ae7597b946ad94ac75680eb735be07",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/ghostrunner-2",
+      "title": "Ghostrunner 2",
+      "gameId": "Ghostrunner 2 - 1758207600000"
+    },
+    {
+      "description": "Award-winning strategy game! Build your civilization, master tech, conquer tribes, and dominate the world map!",
+      "endDateDiscount": "2025-09-18T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1oi5a.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/the-battle-of-polytopia-12fed6",
+      "title": "The Battle of Polytopia",
+      "gameId": "The Battle of Polytopia - 1758207600000"
+    },
+    {
+      "description": "Discover illusionary pathways and delightful puzzles as you learn the secrets of The Sacred Geometry. Follow the heart warming story of Ro in her journey through motherhood. Rediscover independence through manipulating monuments and evolving paths to explore new worlds.",
+      "endDateDiscount": "2025-09-18T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-1wse4.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/monument-valley-2-addd02",
+      "title": "Monument Valley 2",
+      "gameId": "Monument Valley 2 - 1758207600000"
     }
   ]
 }
