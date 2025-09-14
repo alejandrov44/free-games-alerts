@@ -983,6 +983,15 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/monument-valley-2-addd02",
       "title": "Monument Valley 2",
       "gameId": "Monument Valley 2 - 1758207600000"
+    },
+    {
+      "description": "What would you do if you woke up in a mysterious place with supernatural abilities and the suspicion that your hosts might be aliens?",
+      "endDateDiscount": "2025-09-19T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/740410/header.jpg?t=1757543793",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/740410/Puzzle_Chambers/?snr=1_7_7_2300_150_1",
+      "title": "Puzzle Chambers",
+      "gameId": "Puzzle Chambers - 1758276000000"
     }
   ]
 }
