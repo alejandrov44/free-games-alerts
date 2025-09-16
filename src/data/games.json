@@ -992,6 +992,15 @@
       "productUrl": "https://store.steampowered.com/app/740410/Puzzle_Chambers/?snr=1_7_7_2300_150_1",
       "title": "Puzzle Chambers",
       "gameId": "Puzzle Chambers - 1758276000000"
+    },
+    {
+      "description": "This video game realized how boring it had been and now is trying its best to fix that.",
+      "endDateDiscount": "2025-09-17T10:00:00.000Z",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1448030/header.jpg?t=1757707825",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1448030/Press_Any_Button/?snr=1_7_7_2300_150_1",
+      "title": "Press Any Button",
+      "gameId": "Press Any Button - 1758103200000"
     }
   ]
 }
