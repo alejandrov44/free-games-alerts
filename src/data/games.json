@@ -1001,6 +1001,15 @@
       "productUrl": "https://store.steampowered.com/app/1448030/Press_Any_Button/?snr=1_7_7_2300_150_1",
       "title": "Press Any Button",
       "gameId": "Press Any Button - 1758103200000"
+    },
+    {
+      "description": "Away — is a short game telling about the hero's death experience, performed in a gloomy black and white style.",
+      "endDateDiscount": "2025-09-24T10:00:00.000Z",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757910/7a460e6428f11588dd4f37d37529b085399cc3ff/header.jpg?t=1757020738",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/757910/Away/?snr=1_7_7_2300_150_1",
+      "title": "Away",
+      "gameId": "Away - 1758708000000"
     }
   ]
 }
