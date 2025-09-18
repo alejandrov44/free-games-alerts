@@ -1010,6 +1010,24 @@
       "productUrl": "https://store.steampowered.com/app/757910/Away/?snr=1_7_7_2300_150_1",
       "title": "Away",
       "gameId": "Away - 1758708000000"
+    },
+    {
+      "description": "Samorost 2 tells a surreal story of a space gnome whose dog just got kidnapped by mischievous aliens. Set out on a short expedition to rescue the pup, deal with curious strangers and relax to the soothing music by Tomáš \"Floex\" Dvořák.",
+      "endDateDiscount": "2025-09-25T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-1hb4u.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/samorost-2-1b9bb1",
+      "title": "Samorost 2",
+      "gameId": "Samorost 2 - 1758812400000"
+    },
+    {
+      "description": "In Project Winter, survival is just the beginning. Work with your friends to escape the icy wilderness, but don’t get too comfortable. Traitors lurk among you, ready to lie, sabotage, and turn even the closest of friends against each other. Who will you trust?",
+      "endDateDiscount": "2025-09-25T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-phsnu.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/project-winter-3b9e84",
+      "title": "Project Winter",
+      "gameId": "Project Winter - 1758812400000"
     }
   ]
 }
