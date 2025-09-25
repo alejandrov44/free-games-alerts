@@ -1064,6 +1064,24 @@
       "productUrl": "https://store.steampowered.com/app/420740/The_Deed/?snr=1_7_7_2300_150_1",
       "title": "The Deed",
       "gameId": "The Deed - 1758967200000"
+    },
+    {
+      "description": "Eastern Exorcist is a stunning 2D side-scrolling action RPG set in a fantasy eastern world with vicious spirits and monsters. Play as a skilled exorcist against chaotic evil to fight your way through the brutal world, and experience different stories of joy and sorrow.",
+      "endDateDiscount": "2025-10-02T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-k4a82.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/eastern-exorcist-d49923",
+      "title": "Eastern Exorcist",
+      "gameId": "Eastern Exorcist - 1759417200000"
+    },
+    {
+      "description": "“Jorel’s Brother and The Most Important Game of the Galaxy” is a point-and-click adventure about an eight-year-old boy who lives with his eccentric family in the shadow of Jorel, his handsome and popular brother. Based on the award-winning Brazilian animation “Jorel’s Brother”.",
+      "endDateDiscount": "2025-10-02T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/6d5a003f768f4957b4ed48b373f86b32/jorels-brother-and-the-most-important-game-of-the-galaxy-liq5n.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
+      "title": "Jorel’s Brother and The Most Important Game of the Galaxy",
+      "gameId": "Jorel’s Brother and The Most Important Game of the Galaxy - 1759417200000"
     }
   ]
 }
