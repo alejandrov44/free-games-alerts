@@ -6,6 +6,7 @@ const freeGamesApiUrl = "https://store.steampowered.com/search/results/?maxprice
 
 const headers = [
   { name: HeaderTypes.contentType, value: HeaderValues.contentType },
+  { name: HeaderTypes.acceptLanguage, value: HeaderValues.acceptLanguage },
   { name: HeaderTypes.cookie, value: HeaderValues.steamCookie },
 ];
 

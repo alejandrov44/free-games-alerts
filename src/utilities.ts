@@ -13,6 +13,14 @@ export const validatDiscordWebhookId = (discordClientId: string) => {
   return discordClientId;
 };
 
+export const validateTelegramBotToken = (telegramBotToken: string) => {
+  const regex = /[\w-]{2,}/;
+  if (!regex.test(telegramBotToken)) {
+    throw new Error("Invalid Telegram bot token.");
+  }
+  return Buffer.from(telegramBotToken || "", "utf8").toString("base64");
+};
+
 export function removeIlegalDiscordChars(stringToFix: string): string {
   const ilegalDiscordCharacters = ["®", "™", "—"];
   const pattern = new RegExp(`[${ilegalDiscordCharacters.join("")}]`, "g");

@@ -8,6 +8,7 @@ jobs:
     env:
       DISCORD_WEBHOOK_TOKEN: ${{ secrets.DISCORD_WEBHOOK_TOKEN_ALBERT }}
       DISCORD_WEBHOOK_ID: ${{ secrets.DISCORD_WEBHOOK_ID_ALBERT }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
 
     strategy:
       matrix:

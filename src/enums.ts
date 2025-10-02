@@ -5,11 +5,13 @@ export enum GamePlatforms {
 }
 
 export enum HeaderTypes {
+  acceptLanguage = "accept-language",
   contentType = "content-type",
   cookie = "cookie",
 }
 
 export enum HeaderValues {
+  acceptLanguage = "es-ES,es;q=0.6",
   contentType = "application/json; charset=UTF-8",
   steamCookie = "lastagecheckage=1-January-1999; birthtime=915170401; wants_mature_content=1",
 }
