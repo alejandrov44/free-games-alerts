@@ -1091,6 +1091,40 @@
       "productUrl": "https://store.steampowered.com/app/740240/Snake_Eyes_Dungeon/?snr=1_7_7_2300_150_1",
       "title": "Snake Eyes Dungeon",
       "gameId": "Snake Eyes Dungeon - 1759485600000"
+    },
+    {
+      "description": "Firestone: Online Idle RPG is a multiplayer fantasy game with idle rpg mechanics. Collect heroes🧙‍♂️, upgrade their gear & skills, and sent them in AFK battles or go on an incremental clicker frenzy to beat monstrous bosses! Chat with guild friends or engage in PVP⚔️.",
+      "endDateDiscount": "2025-10-09T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-20nh8.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/firestone-online-idle-rpg-bfd04b",
+      "title": "Firestone Online Idle RPG",
+      "gameId": "Firestone Online Idle RPG - 1760022000000"
+    },
+    {
+      "description": "Nightingale is a first-person, PVE, open-world survival crafting game played solo or cooperatively with friends. Build, craft, fight and explore as you venture through mystical portals into a variety of amazing and fantastical realms.",
+      "endDateDiscount": "2025-10-09T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/3c9f4ef0d1b240de9586b0cdd380ff92/nightingale-a7wrd.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/nightingale",
+      "title": "Nightingale",
+      "gameId": "Nightingale - 1760022000000"
+    },
+    {
+      "description": "¡Entra al calabozo, pierdete y tira los dados contra los monstruos! ¡Apuesta en contra de monstruos peligrosos como fantasmas, hombres lobo o incluso el mismo monstruo de Frankenstein!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/740240/header.jpg?t=1759392938",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/740240/Snake_Eyes_Dungeon/?snr=1_7_7_2300_150_1",
+      "title": "Snake Eyes Dungeon",
+      "gameId": "Snake Eyes Dungeon - undefined"
+    },
+    {
+      "description": "This sketchbook for Wander Stars gives you a behind the scenes sneak peek at the game's art design over the course of development. Featuring production sketches, character concepts and environment art from Andie Gallo and Kay Dominguez.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3636070/0e0fe76eb43ca78a4398fdee6356993b0970cfb0/header.jpg?t=1758423980",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3636070/Wander_Stars_Sketchbook/?snr=1_7_7_2300_150_1",
+      "title": "Wander Stars Sketchbook",
+      "gameId": "Wander Stars Sketchbook - undefined"
     }
   ]
 }
