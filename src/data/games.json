@@ -1125,6 +1125,14 @@
       "productUrl": "https://store.steampowered.com/app/3636070/Wander_Stars_Sketchbook/?snr=1_7_7_2300_150_1",
       "title": "Wander Stars Sketchbook",
       "gameId": "Wander Stars Sketchbook - undefined"
+    },
+    {
+      "description": "Es el año 2000 y las Naciones Unidas han establecido varias zonas de cuarentena en todo el mundo para contener la ola de una pandemia de virus desconocida. Las Naciones Unidas recurrieron a una compañía militar privada, mercenarios altamente capacitados para recuperar los datos y descubrir el secreto de la zona.",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729720/header.jpg?t=1759405429",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/729720/Zomborg/?snr=1_7_7_2300_150_1",
+      "title": "Zomborg",
+      "gameId": "Zomborg - undefined"
     }
   ]
 }
