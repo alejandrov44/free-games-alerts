@@ -1186,6 +1186,14 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/fear-the-spotlight-97656f",
       "title": "Fear the Spotlight",
       "gameId": "Fear the Spotlight - 1761836400000"
+    },
+    {
+      "description": "911 OPERATOR es un juego en el que te convertirás en un operador de una línea de emergencias, donde tendrás que resolver complicadas tareas, proporcionando instrucciones y enviando a unidades de emergencia. ¡Juega con el mapa de cualquier ciudad del mundo!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/503560/header.jpg?t=1761224504",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/503560/911_Operator/?snr=1_7_7_2300_150_1",
+      "title": "911 Operator",
+      "gameId": "911 Operator - undefined"
     }
   ]
 }
