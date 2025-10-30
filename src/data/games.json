@@ -1226,6 +1226,24 @@
       "productUrl": "https://store.steampowered.com/app/439250/Space_Pilgrim_Episode_III_Delta_Pavonis/?snr=1_7_7_2300_150_1",
       "title": "Space Pilgrim Episode III: Delta Pavonis",
       "gameId": "Space Pilgrim Episode III: Delta Pavonis - undefined"
+    },
+    {
+      "description": "Bendy and the Ink Machine® is the first person puzzle action horror game that will forever ruin your childhood love of cartoons.",
+      "endDateDiscount": "2025-11-06T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1e8cj.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/bendy-and-the-ink-machine-60cf5a",
+      "title": "Bendy and the Ink Machine",
+      "gameId": "Bendy and the Ink Machine - 1762444800000"
+    },
+    {
+      "description": "Survive five nights of terror in this chilling adventure game. Travel between time periods to solve puzzles, gather clues, and outrun the threat pursuing you. Move swiftly and stay hidden, and you may just survive. But be careful—it's not just your own life that’s on the line.",
+      "endDateDiscount": "2025-11-06T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1ng0s.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/five-nights-at-freddys-into-the-pit-99c563",
+      "title": "Five Nights at Freddy's: Into the Pit",
+      "gameId": "Five Nights at Freddy's: Into the Pit - 1762444800000"
     }
   ]
 }
