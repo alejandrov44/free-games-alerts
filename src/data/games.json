@@ -1244,6 +1244,14 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/five-nights-at-freddys-into-the-pit-99c563",
       "title": "Five Nights at Freddy's: Into the Pit",
       "gameId": "Five Nights at Freddy's: Into the Pit - 1762444800000"
+    },
+    {
+      "description": "Un juego de plataformas de rompecabezas, con elementos de sigilo y parkour. Usa tu ingenio, astucia y agilidad para escapar de esta prisión mortal. Adopta el enfoque sigiloso, avanza lentamente, ocultate y permanece fuera de la vista. O utilice su capacidad atlética para saltar en paredes, escalar precipicios y correr hacia la libertad.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/897630/header.jpg?t=1761688964",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/897630/Death_Fungeon/?snr=1_7_7_2300_150_1",
+      "title": "Death Fungeon",
+      "gameId": "Death Fungeon - undefined"
     }
   ]
 }
