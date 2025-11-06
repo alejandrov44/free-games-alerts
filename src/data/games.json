@@ -1252,6 +1252,32 @@
       "productUrl": "https://store.steampowered.com/app/897630/Death_Fungeon/?snr=1_7_7_2300_150_1",
       "title": "Death Fungeon",
       "gameId": "Death Fungeon - undefined"
+    },
+    {
+      "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
+      "endDateDiscount": "2025-11-13T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1sr4b.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/idle-champions-of-the-forgotten-realms",
+      "title": "Idle Champions of the Forgotten Realms",
+      "gameId": "Idle Champions of the Forgotten Realms - 1763049600000"
+    },
+    {
+      "description": "Felix The Reaper is a challenging and strict 3D puzzle game about bringing humans into deadly situations. You are Felix, the ever-dancing bringer of death, who just so happens to be dangerously in love with Life.",
+      "endDateDiscount": "2025-11-13T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-w5lqq.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/felix-the-reaper-3f7e62",
+      "title": "Felix The Reaper",
+      "gameId": "Felix The Reaper - 1763049600000"
+    },
+    {
+      "description": "OneShift es un juego de plataforma con rompecabezas donde el jugador tiene la capacidad de congelar / descongelar el tiempo y desplazarse por mundos para recolectar cubos azules. Pero solo un mundo puede estar activo a la vez. Más adelante en el juego, se revela una mecánica rotativa mundial, que hace que todo sea más complejo!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/862740/header.jpg?t=1762433498",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/862740/OneShift/?snr=1_7_7_2300_150_1",
+      "title": "OneShift",
+      "gameId": "OneShift - undefined"
     }
   ]
 }
