@@ -1302,6 +1302,33 @@
       "productUrl": "https://store.steampowered.com/app/410110/12_is_Better_Than_6/?snr=1_7_7_2300_150_1",
       "title": "12 is Better Than 6",
       "gameId": "12 is Better Than 6 - undefined"
+    },
+    {
+      "description": "ScourgeBringer is a fast-paced free-moving rogue-lite platformer. Help Kyhra to explore the unknown and slash her way through ancient machines guarding the seal of her past, and maybe the redemption of humanity.",
+      "endDateDiscount": "2025-11-20T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/c03a3687567a4cf3910ea5ec7279664e/b3b676d2-3004-47db-b004-b0886cbefc16-1200x1600-ae53ef4bf4c28af8c253c043c35c78d1_1200x1600-ae53ef4bf4c28af8c253c043c35c78d1",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/scourgebringer",
+      "title": "Scourgebringer",
+      "gameId": "Scourgebringer - 1763654400000"
+    },
+    {
+      "description": "Lead armies, rebuild fallen kingdoms, and rise to greatness in Songs of Silence. Embark on an epic journey through an Art Nouveau-inspired fantasy world with intense battles and captivating storytelling!",
+      "endDateDiscount": "2025-11-20T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-1g5aw.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/songs-of-silence-778d86",
+      "title": "Songs of Silence",
+      "gameId": "Songs of Silence - 1763654400000"
+    },
+    {
+      "description": "Zero Hour is a tactical FPS with online team-based game play that takes place in a variety of fictional locations interpreted in Bangladesh with Real-life scale & resource management. It brings a grounded, close quarter combat experience to the game.",
+      "endDateDiscount": "2025-11-20T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-16cus.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/zero-hour-8449a0",
+      "title": "Zero Hour",
+      "gameId": "Zero Hour - 1763654400000"
     }
   ]
 }
