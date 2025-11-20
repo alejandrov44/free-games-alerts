@@ -1329,6 +1329,23 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/zero-hour-8449a0",
       "title": "Zero Hour",
       "gameId": "Zero Hour - 1763654400000"
+    },
+    {
+      "description": "Godzilla, Mothra, King Ghidorah, and more are here to rampage across an 8x8 grid! Control Toho monsters and save the world from the Fungoid mushroom invasion! Relish the sense of accomplishment earned from clearing each stage of this all-new strategy puzzle game!",
+      "endDateDiscount": "2025-11-27T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/8d0c5b1ea9254d57afd4460c6c5de7de/godzilla-voxel-wars-1r6gz.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/godzillawars-2c30e4",
+      "title": "Godzilla Voxel Wars",
+      "gameId": "Godzilla Voxel Wars - 1764259200000"
+    },
+    {
+      "description": "«Lo difícil no es hablar, sino que te escuchen». Wednesdays, a medio camino entre el videojuego y la novela gráfica, trata de concienciar acerca de la violencia sexual infantil, pero con una narrativa edificante que sorprende con su optimismo.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2747770/header.jpg?t=1761776859",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2747770/Wednesdays/?snr=1_7_7_2300_150_1",
+      "title": "Wednesdays",
+      "gameId": "Wednesdays - undefined"
     }
   ]
 }
