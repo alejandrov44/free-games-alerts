@@ -1346,6 +1346,14 @@
       "productUrl": "https://store.steampowered.com/app/2747770/Wednesdays/?snr=1_7_7_2300_150_1",
       "title": "Wednesdays",
       "gameId": "Wednesdays - undefined"
+    },
+    {
+      "description": "La secuela del aclamado Vermintide es un innovador juego de acción de combates cuerpo a cuerpo con impresionantes gráficos que supera los límites del género cooperativo en primera persona. ¡Únete ya a la lucha!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552500/5aa5889a95f982c0f7730d3936dc56f7c1a7d93c/header_alt_assets_25.jpg?t=1763748127",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/?snr=1_7_7_2300_150_1",
+      "title": "Warhammer: Vermintide 2",
+      "gameId": "Warhammer: Vermintide 2 - undefined"
     }
   ]
 }
