@@ -1354,6 +1354,15 @@
       "productUrl": "https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/?snr=1_7_7_2300_150_1",
       "title": "Warhammer: Vermintide 2",
       "gameId": "Warhammer: Vermintide 2 - undefined"
+    },
+    {
+      "description": "Zoeti is a turn-based roguelike that features a deck of playing cards used to create card combos and activate skills in the heat of battle. Bolster your arsenal of skills through battles and discoverable upgrades, or aid from locals to overcome the evil plaguing your land.",
+      "endDateDiscount": "2025-11-27T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1vjnz.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/zoeti-3ccef9",
+      "title": "Zoeti",
+      "gameId": "Zoeti - 1764259200000"
     }
   ]
 }
