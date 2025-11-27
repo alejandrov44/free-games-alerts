@@ -1363,6 +1363,23 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/zoeti-3ccef9",
       "title": "Zoeti",
       "gameId": "Zoeti - 1764259200000"
+    },
+    {
+      "description": "A space station nestled in the clouds of Jupiter. A bizarre bazaar where a young, worried woman crafts entire universes in the palm of her hand. A mysterious cultist who's stripped the flesh from his bones in order to reach enlightenment. There's a universe for sale. You buying?",
+      "endDateDiscount": "2025-12-04T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-xr25c.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/universe-for-sale-05c53e",
+      "title": "Universe for Sale",
+      "gameId": "Universe for Sale - 1764864000000"
+    },
+    {
+      "description": "Expresa tu estilo con el paquete Improvisado.",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184791/header.jpg?t=1763414849",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2184791/HITMAN_3__Makeshift_Pack/?snr=1_7_7_2300_150_1",
+      "title": "HITMAN 3 - Makeshift Pack",
+      "gameId": "HITMAN 3 - Makeshift Pack - undefined"
     }
   ]
 }
