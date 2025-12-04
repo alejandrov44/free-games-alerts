@@ -1388,6 +1388,24 @@
       "productUrl": "https://store.steampowered.com/app/934680/World_of_Warships__Ybari_Pack/?snr=1_7_7_2300_150_1",
       "title": "World of Warships — Yūbari Pack",
       "gameId": "World of Warships — Yūbari Pack - undefined"
+    },
+    {
+      "description": "The biggest and fourthiest addition to this storied party game franchise features not five but FIVE AND A HALF crowd-slaying games!",
+      "endDateDiscount": "2025-12-11T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/snowdrop/PP4_WideImage_2560x1440-af8d584f847d181c0831ad238cfc4076",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/jackbox-party-pack-4",
+      "title": "The Jackbox Party Pack 4",
+      "gameId": "The Jackbox Party Pack 4 - 1765468800000"
+    },
+    {
+      "description": "Grab your trench coat, tune your sixth sense and join the Darkside Division as they investigate the bizarre, the downright dangerous and the mildly confusing cases of Twin Lakes.",
+      "endDateDiscount": "2025-12-11T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-offer-1uv10.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/the-darkside-detective-02fd5a",
+      "title": "The Darkside Detective",
+      "gameId": "The Darkside Detective - 1765468800000"
     }
   ]
 }
