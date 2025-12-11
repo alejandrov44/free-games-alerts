@@ -1406,6 +1406,14 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/the-darkside-detective-02fd5a",
       "title": "The Darkside Detective",
       "gameId": "The Darkside Detective - 1765468800000"
+    },
+    {
+      "description": "Con más de 20 millones de aventureros, black Desert Online es un MMORPG de acción de mundo abierto. ¡Experimenta su intenso combate, enfréntante a Jefes mundiales, asedia castillos junto a tus amigos y mejora en diversas profesiones como pesca, comercio, manufactura, y cocina, entre otras!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582660/header.jpg?t=1758315448",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/582660/Black_Desert/?snr=1_7_7_2300_150_1",
+      "title": "Black Desert",
+      "gameId": "Black Desert - undefined"
     }
   ]
 }
