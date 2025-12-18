@@ -1447,6 +1447,31 @@
       "productUrl": "https://store.steampowered.com/app/1134700/Wild_Terra_2_New_Lands/?snr=1_7_7_2300_150_1",
       "title": "Wild Terra 2: New Lands",
       "gameId": "Wild Terra 2: New Lands - undefined"
+    },
+    {
+      "description": "Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms of Norse Mythology. Fight waves of enemies to earn divine blessings of ancient Norse Gods, explore hostile worlds and face powerful bosses. Become a god-like warrior in this ultimate showdown.",
+      "endDateDiscount": "2025-12-19T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec18_giveaway_2560x1440_2560x1440-f1850c822d1f4eec98d5664debd8f0e3",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/jotunnslayer-hordes-of-hel-3579b3",
+      "title": "Jotunnslayer: Hordes of Hel",
+      "gameId": "Jotunnslayer: Hordes of Hel - 1766160000000"
+    },
+    {
+      "description": "¿Alguna vez has querido ser un diseñador de juguetes? ¡Esta es una oportunidad única para convertirse en uno! ¡Repara y crea Museos de los Juguetes para compartir la felicidad con todos!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1510580/header.jpg?t=1766051622",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1510580/Toy_Tinker_Simulator/?snr=1_7_7_2300_150_1",
+      "title": "Toy Tinker Simulator",
+      "gameId": "Toy Tinker Simulator - undefined"
+    },
+    {
+      "description": "In this platformer, jumping will be your main mechanic as you climb the level, each jump matters, if you miss a jump, you have to restart. You may be small but so are the platforms.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2952470/efd77acebd190f5588262c9b1cbe8c38dbdec638/header.jpg?t=1763754651",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2952470/Rat_Quest/?snr=1_7_7_2300_150_1",
+      "title": "Rat Quest",
+      "gameId": "Rat Quest - undefined"
     }
   ]
 }
