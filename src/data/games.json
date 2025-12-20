@@ -1497,6 +1497,23 @@
       "productUrl": "https://store.steampowered.com/app/2068520/Banana_Hell_Mountain_of_Madness/?snr=1_7_7_2300_150_1",
       "title": "Banana Hell: Mountain of Madness",
       "gameId": "Banana Hell: Mountain of Madness - undefined"
+    },
+    {
+      "description": "Weird west legends meet eldritch horror in BLOOD WEST, an immersive stealth FPS. Become the Undead Gunslinger, doomed to roam the barren lands until he manages to purge their curse, freeing his soul. 3 varied scenarios, perk-based progression, and 20+ hours of gameplay await you!",
+      "endDateDiscount": "2025-12-21T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec20_giveaway_2560x1440_2560x1440-dfdb6205510e4167ba1057f6f92cfd1d",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/blood-west-8f6ffd",
+      "title": "Blood West",
+      "gameId": "Blood West - 1766332800000"
+    },
+    {
+      "description": "Crush the forces of hell and get a high score in this addictive, action-packed, arcade-inspired twin-stick shooter!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2547140/header.jpg?t=1763502052",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2547140/Undercroft_warriors/?snr=1_7_7_2300_150_1",
+      "title": "Undercroft warriors",
+      "gameId": "Undercroft warriors - undefined"
     }
   ]
 }
