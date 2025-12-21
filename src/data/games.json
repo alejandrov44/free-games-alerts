@@ -1514,6 +1514,23 @@
       "productUrl": "https://store.steampowered.com/app/2547140/Undercroft_warriors/?snr=1_7_7_2300_150_1",
       "title": "Undercroft warriors",
       "gameId": "Undercroft warriors - undefined"
+    },
+    {
+      "description": "Sorry We're Closed is a nostalgic, single-player survival horror game with rich lore, deep characters and multiple endings. Explore unsettling locations with fixed camera angles. Open your Third Eye to see between worlds, uncover secrets and solve puzzles.",
+      "endDateDiscount": "2025-12-22T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec21_giveaway_2560x14401_2560x1440-44c02dfeb64346b6bf075109d974c9df",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/sorry-were-closed-724c86",
+      "title": "Sorry We're Closed",
+      "gameId": "Sorry We're Closed - 1766419200000"
+    },
+    {
+      "description": "Escapar de un asesinato nunca ha sido fácil. Estos tres miembros de una familia noble y orgullosa están separados por cinco siglos, pero tienen en común una intención vengativa y asesina. Los planes deben formarse, la sangre debe derramarse y la evidencia debe plantarse...",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460960/header.jpg?t=1765914797",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/460960/The_Deed_Dynasty/?snr=1_7_7_2300_150_1",
+      "title": "The Deed: Dynasty",
+      "gameId": "The Deed: Dynasty - undefined"
     }
   ]
 }
