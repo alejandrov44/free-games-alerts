@@ -1619,6 +1619,15 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/viewfinder-61691c",
       "title": "Viewfinder",
       "gameId": "Viewfinder - 1767110400000"
+    },
+    {
+      "description": "Trine Classic Collection",
+      "endDateDiscount": "2025-12-31T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec30_giveaway_2560x1440_2560x1440-f1062bfbf0844a2fa8e56afc6f29e4d3",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/trine-classic-collection",
+      "title": "Trine Classic Collection",
+      "gameId": "Trine Classic Collection - 1767196800000"
     }
   ]
 }
