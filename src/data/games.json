@@ -1706,6 +1706,22 @@
       "productUrl": "https://store.steampowered.com/app/1755300/Smart_Factory_Tycoon/?snr=1_7_7_2300_150_1",
       "title": "Smart Factory Tycoon",
       "gameId": "Smart Factory Tycoon - undefined"
+    },
+    {
+      "description": "&quot;Crown Champion: Legends of the Arena&quot; es un RPG combinado con un simulador de gestión ubicado en el despiadado mundo de los combates de gladiadores. Desarrolla tu academia y entrena a tus luchadores. Aumenta tu poder e influencia en el reino. Cosecha las recompensas de tus trabajos.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/527710/header.jpg?t=1768832289",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/527710/Crown_Champion_Legends_of_the_Arena/?snr=1_7_7_2300_150_1",
+      "title": "Crown Champion: Legends of the Arena",
+      "gameId": "Crown Champion: Legends of the Arena - undefined"
+    },
+    {
+      "description": "The stickmen must strike at the terror enemy stickmen in this Battle Simulator",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2623090/header.jpg?t=1768846588",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2623090/Battle_Simulator_Counter_Stickman/?snr=1_7_7_2300_150_1",
+      "title": "Battle Simulator: Counter Stickman",
+      "gameId": "Battle Simulator: Counter Stickman - undefined"
     }
   ]
 }
