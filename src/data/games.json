@@ -1755,6 +1755,23 @@
       "productUrl": "https://store.steampowered.com/app/504390/Along_the_Edge/?snr=1_7_7_2300_150_1",
       "title": "Along the Edge",
       "gameId": "Along the Edge - undefined"
+    },
+    {
+      "description": "Definitely Not Fried Chicken is a business management sim with a Twist! Grow your drugs trade through legitimate fronts, managing both sides of the business. Acquire new \"businesses\", meet new clientele, Develop more potent narcotics, make lots of money and leave a city in ruin!",
+      "endDateDiscount": "2026-02-05T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/definitely-not-fried-chicken-a30160",
+      "title": "Definitely Not Fried Chicken",
+      "gameId": "Definitely Not Fried Chicken - 1770307200000"
+    },
+    {
+      "description": "Untrusted is an online multiplayer (10 to 16 players) hacking / social deduction game: as an hacker, hack your target - as an undercover agent, disrupt the operation. Follow your objective or kill everyone - the choice is yours.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1502660/header.jpg?t=1766521500",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1502660/Untrusted/?snr=1_7_7_2300_150_1",
+      "title": "Untrusted",
+      "gameId": "Untrusted - undefined"
     }
   ]
 }
