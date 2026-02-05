@@ -1772,6 +1772,32 @@
       "productUrl": "https://store.steampowered.com/app/1502660/Untrusted/?snr=1_7_7_2300_150_1",
       "title": "Untrusted",
       "gameId": "Untrusted - undefined"
+    },
+    {
+      "description": "Welcome to Botany Manor, a stately home in 19th century England. You play as inhabitant Arabella Greene, a retired botanist. Explore your house and gardens, filled with research, to figure out the ideal habitat of forgotten flora.",
+      "endDateDiscount": "2026-02-12T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1f7uq.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/botany-manor-e7c456",
+      "title": "Botany Manor",
+      "gameId": "Botany Manor - 1770912000000"
+    },
+    {
+      "description": "Step back in time and forward into battle with the Poison Retro Set, inspired by the electrifying Arcade Season.",
+      "endDateDiscount": "2026-02-12T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-1pp3a.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/pixel-gun-3d-poison-retro-set-55a7dd",
+      "title": "Poison Retro Set",
+      "gameId": "Poison Retro Set - 1770912000000"
+    },
+    {
+      "description": "Arabian Gulf is a single-player survival action game set in a harsh desert. Face relentless enemies, endure tough conditions, and fight through dangerous terrain using basic tools and weapons. Survive, overcome each challenge, reach the distant castle, and claim the hidden treasure.",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744480/efb96c296ba8c4832eb4a39b26f108527e92fae5/header.jpg?t=1770243842",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3744480/Arabian_Gulf/?snr=1_7_7_2300_150_1",
+      "title": "Arabian Gulf",
+      "gameId": "Arabian Gulf - undefined"
     }
   ]
 }
