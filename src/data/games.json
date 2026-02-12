@@ -1814,6 +1814,32 @@
       "productUrl": "https://store.steampowered.com/app/3312020/Lost_in_Anomaly/?snr=1_7_7_2300_150_1",
       "title": "Lost in Anomaly",
       "gameId": "Lost in Anomaly - undefined"
+    },
+    {
+      "description": "Join Detective McQueen as he puzzles his way through 6 cases, risking life and pixelated limb to solve the macabre mysteries that plague the poor town.",
+      "endDateDiscount": "2026-02-19T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-offer-501mw.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/the-darkside-detective-a-fumble-in-the-dark-174fcf",
+      "title": "The Darkside Detective A Fumble in the Dark",
+      "gameId": "The Darkside Detective A Fumble in the Dark - 1771516800000"
+    },
+    {
+      "description": "Lose yourself in the dystopian world of New York, 2329. In this interactive noir story, lead the investigation using advanced technology as Detective James Karra, who risks it all in pursuit of a serial killer targeting the city’s elite.",
+      "endDateDiscount": "2026-02-19T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-13stz.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/nobody-wants-to-die-fe21cd",
+      "title": "Nobody Wants to Die",
+      "gameId": "Nobody Wants to Die - 1771516800000"
+    },
+    {
+      "description": "A furniture collection inspired by the Horse in the Chinese zodiac. It'll inject a little fun to your farming life.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4391750/c8311811db9843bc2f52e0edcf4a3115d164bfa0/header.jpg?t=1770919215",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/4391750/Halcyon_Days_at_Taoyuan__Galloping_Horse_Pack/?snr=1_7_7_2300_150_1",
+      "title": "Halcyon Days at Taoyuan - Galloping Horse Pack",
+      "gameId": "Halcyon Days at Taoyuan - Galloping Horse Pack - undefined"
     }
   ]
 }
