@@ -1840,6 +1840,48 @@
       "productUrl": "https://store.steampowered.com/app/4391750/Halcyon_Days_at_Taoyuan__Galloping_Horse_Pack/?snr=1_7_7_2300_150_1",
       "title": "Halcyon Days at Taoyuan - Galloping Horse Pack",
       "gameId": "Halcyon Days at Taoyuan - Galloping Horse Pack - undefined"
+    },
+    {
+      "description": "“The hospital was empty. Quiet, and brighter than usual... like waking up on a snow day. But I didn't feel cold. I didn't feel much of anything.”",
+      "endDateDiscount": "2026-02-26T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/07c1bf7c44dc4c2e8567923f03c7d307/return-to-ash-qcdax.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/return-to-ash-dee3ff",
+      "title": "Return to Ash",
+      "gameId": "Return to Ash - 1772121600000"
+    },
+    {
+      "description": "STALCRAFT: X is a free-to-play MMOFPS with RPG elements.\n\nStart exploring the world of the Zone with a Starter Pack. It includes everything you need for your initial raids: a 7-day Premium, weapons, armor, artifacts, and cosmetics.",
+      "endDateDiscount": "2026-02-26T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1gxje.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/stalcraft-x-stalcraft-x-starter-edition-0b06d4",
+      "title": "STALCRAFT: X Starter Edition",
+      "gameId": "STALCRAFT: X Starter Edition - 1772121600000"
+    },
+    {
+      "description": "Observe every corner of your apartment by moving your camera along a rail that runs through the rooms. Find and take pictures of paranormal anomalies to exorcise them. Locked in your surveillance room, will you survive tonight's 8 rounds?",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3017580/header.jpg?t=1768573764",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3017580/Paragnosia/?snr=1_7_7_2300_150_1",
+      "title": "Paragnosia",
+      "gameId": "Paragnosia - undefined"
+    },
+    {
+      "description": "Set off on a tour with the Rofleemo! Take on their tasks, earn tickets, and spend them on new perks, skins, trophies, and lootboxes to enhance your journey through the Void.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4108450/8592053834d62d813f920ffe38c215a05cdd6a2d/header.jpg?t=1771524609",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/4108450/Voidtrain__Tour_de_Void/?snr=1_7_7_2300_150_1",
+      "title": "Voidtrain - Tour de Void",
+      "gameId": "Voidtrain - Tour de Void - undefined"
+    },
+    {
+      "description": "The legendary game is now on Steam! Can you prove that you are a good player, go through a difficult path and save your brother? This challenge is not for wimps!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1286560/header.jpg?t=1771456167",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1286560/BROTHER_Save_him__Hardcore_Platformer/?snr=1_7_7_2300_150_1",
+      "title": "BROTHER!!! Save him! - Hardcore Platformer",
+      "gameId": "BROTHER!!! Save him! - Hardcore Platformer - undefined"
     }
   ]
 }
