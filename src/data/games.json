@@ -1916,6 +1916,32 @@
       "productUrl": "https://store.steampowered.com/app/3098890/World_Crafter_TD/?snr=1_7_7_2300_150_1",
       "title": "World Crafter TD",
       "gameId": "World Crafter TD - undefined"
+    },
+    {
+      "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
+      "endDateDiscount": "2026-03-12T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1n34h.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/idle-champions-of-the-forgotten-realms",
+      "title": "Idle Champions of the Forgotten Realms",
+      "gameId": "Idle Champions of the Forgotten Realms - 1773327600000"
+    },
+    {
+      "description": "Turnip Boy is back! This time he’s teaming up with the fearsome Pickled Gang to plan and execute the weirdest heist of all time.",
+      "endDateDiscount": "2026-03-12T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/12f0012342a94c95985afbaa7568b51b/turnip-boy-robs-a-bank-167pk.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/turnip-boy-robs-a-bank-3fae0e",
+      "title": "Turnip Boy Robs a Bank",
+      "gameId": "Turnip Boy Robs a Bank - 1773327600000"
+    },
+    {
+      "description": "Pásalo en grande creando fuegos artificiales con el nuevo secuenciador de efectos. Además, podrás disfrutar de 2 nuevas atracciones, una atracción acuática, 3 montañas rusas nuevas y 2 mejoradas, y mucho más en el pack Parkitect: Booms &amp; Blooms.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1353170/header.jpg?t=1772734119",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1353170/Parkitect__Booms__Blooms/?snr=1_7_7_2300_150_1",
+      "title": "Parkitect - Booms & Blooms",
+      "gameId": "Parkitect - Booms & Blooms - undefined"
     }
   ]
 }
