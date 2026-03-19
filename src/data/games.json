@@ -1976,6 +1976,32 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/isonzo",
       "title": "Isonzo",
       "gameId": "Isonzo - 1773932400000"
+    },
+    {
+      "description": "Take on the electrician role and learn the profession's basics! Install sockets, repair worn-out equipment, assemble broken appliances, replace light bulbs, and lay wires at your customers' homes. Be sure to check everything twice, with electricity there are no jokes!",
+      "endDateDiscount": "2026-03-26T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/d0be4faac92a49ebae039c0e0d386e42/electrician-simulator-1j17y.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/electrician-simulator-164e9f",
+      "title": "Electrician Simulator",
+      "gameId": "Electrician Simulator - 1774537200000"
+    },
+    {
+      "description": "Get a Premium Japanese destroyer and some Epic permanent camouflages to celebrate our 5th year at Epic Games Store.",
+      "endDateDiscount": "2026-03-26T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ahdf.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/world-of-warships-world-of-warships-—-tachibana-lima-pack-5930e4",
+      "title": "World of Warships — Epic Anniversary Tachibana Pack",
+      "gameId": "World of Warships — Epic Anniversary Tachibana Pack - 1774537200000"
+    },
+    {
+      "description": "Una aventura incremental de clicker/recolección de criaturas. Recoge millones de monedas, incuba mascotas para que minen por ti y desbloquea una enorme variedad de zonas artesanales. El paraíso de la dopamina ha llegado.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3144950/header.jpg?t=1773344180",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3144950/Pet_Lands/?snr=1_7_7_2300_150_1",
+      "title": "Pet Lands",
+      "gameId": "Pet Lands - undefined"
     }
   ]
 }
