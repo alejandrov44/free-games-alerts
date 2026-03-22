@@ -2002,6 +2002,14 @@
       "productUrl": "https://store.steampowered.com/app/3144950/Pet_Lands/?snr=1_7_7_2300_150_1",
       "title": "Pet Lands",
       "gameId": "Pet Lands - undefined"
+    },
+    {
+      "description": "Take control of Mace in this local co-op side scrolling platform shooter as you travel from assignment to assignment taking on enemy bots and dangerous bosses on different planets.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/640700/header.jpg?t=1773344192",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/640700/Narvas/?snr=1_7_7_2300_150_1",
+      "title": "Narvas",
+      "gameId": "Narvas - undefined"
     }
   ]
 }
