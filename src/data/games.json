@@ -2010,6 +2010,24 @@
       "productUrl": "https://store.steampowered.com/app/640700/Narvas/?snr=1_7_7_2300_150_1",
       "title": "Narvas",
       "gameId": "Narvas - undefined"
+    },
+    {
+      "description": "The Cyan Galaxy is in peril! Your trusty little star fighter and rag tag squad of wingmen are the only hope against the evil EXODON! Level up from a pea shooter to an offensive powerhouse as you engage in frantic combat across many wondrous locales.",
+      "endDateDiscount": "2026-04-02T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/866f5f0834324794a87759b5f4854636/hyper-echelon-13b9q.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/hyper-echelon-2d23ff",
+      "title": "Hyper Echelon",
+      "gameId": "Hyper Echelon - 1775142000000"
+    },
+    {
+      "description": "Breathe easy and thrive in this cozy colony sim. Build a haven for castaways, manage resources, live your best life on the ocean. Lead your humble settlement into a high-tech society.",
+      "endDateDiscount": "2026-04-02T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/180018125def4cbabef241f199a79f35/havendock-r2ivl.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/havendock-64983e",
+      "title": "Havendock",
+      "gameId": "Havendock - 1775142000000"
     }
   ]
 }
