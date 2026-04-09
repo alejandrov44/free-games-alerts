@@ -2070,6 +2070,23 @@
       "productUrl": "https://store.steampowered.com/app/2943780/Chamber_Survival/?snr=1_7_7_2300_150_1",
       "title": "Chamber Survival",
       "gameId": "Chamber Survival - undefined"
+    },
+    {
+      "description": "Prop Sumo is a party fighting game that pits ordinary props together in extraordinary battles!\n\nBeat up your friends and dominate the scoreboard!",
+      "endDateDiscount": "2026-04-16T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/propsumo-ca8bd7",
+      "title": "Prop Sumo",
+      "gameId": "Prop Sumo - 1776351600000"
+    },
+    {
+      "description": "Los creadores de Punch Club nos traen Graveyard Keeper, el simulador de gestión de cementerios medievales más impreciso de la historia.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/599140/0671e75eab8e44cd3f22e0d9f5371304b5556f96/header_alt_assets_2.jpg?t=1775755421",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/599140/Graveyard_Keeper/?snr=1_7_7_2300_150_1",
+      "title": "Graveyard Keeper",
+      "gameId": "Graveyard Keeper - undefined"
     }
   ]
 }
