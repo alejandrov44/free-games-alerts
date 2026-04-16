@@ -2103,6 +2103,47 @@
       "productUrl": "https://store.steampowered.com/app/2860410/NineHells/?snr=1_7_7_2300_150_1",
       "title": "NineHells",
       "gameId": "NineHells - undefined"
+    },
+    {
+      "description": "The Stone of Madness is a real-time tactical stealth game set in an 18th-century Spanish Monastery. Five prisoners pool their skills and resources to face their phobias, stave off insanity, uncover the mysteries of the Monastery, and find a way to escape.",
+      "endDateDiscount": "2026-04-23T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/the-stone-of-madness-7b22f3",
+      "title": "The Stone of Madness",
+      "gameId": "The Stone of Madness - 1776956400000"
+    },
+    {
+      "description": "Uncanny Tales es una serie episódica de terror en la que el verdadero terror no proviene de los monstruos ni de lo sobrenatural, sino de las personas. Cada episodio es una nueva historia inquietante inspirada en miedos reales y situaciones espeluznantes de la vida cotidiana.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3534240/d59d2dd07426dddf1ecf8e247f431fc05cb85bde/header.jpg?t=1776331862",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3534240/Uncanny_Tales_Cold_Road/?snr=1_7_7_2300_150_1",
+      "title": "Uncanny Tales: Cold Road",
+      "gameId": "Uncanny Tales: Cold Road - undefined"
+    },
+    {
+      "description": "Legend of Keepers es la combinación perfecta entre juego de gestión de mazmorras y roguelite. Mazmorras S. A. te ha contratado para dirigir sus instalaciones y tu puesto solo consiste en una cosa: ¡protegerlas a toda costa!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/978520/header.jpg?t=1765920747",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/?snr=1_7_7_2300_150_1",
+      "title": "Legend of Keepers: Career of a Dungeon Manager",
+      "gameId": "Legend of Keepers: Career of a Dungeon Manager - undefined"
+    },
+    {
+      "description": "The stickman world is in a zombie epidemic- kill zombie stickmen with your epic red sword!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2792610/header.jpg?t=1775669825",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2792610/Stickman_Killing_Zombie/?snr=1_7_7_2300_150_1",
+      "title": "Stickman Killing Zombie",
+      "gameId": "Stickman Killing Zombie - undefined"
+    },
+    {
+      "description": "Sumérgete en el epicentro de la locura con el Sanity Skin Pack. Descubre aspectos estéticos exclusivos para la interfaz de usuario y para Noah, así como nuevas opciones de personalización para la linterna y el sonar.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4277070/a2a4f735333f2a43cdd93252381e5dc666ec0266/header.jpg?t=1776355338",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/4277070/Cthulhu_The_Cosmic_Abyss__Sanity_Skin_Pack/?snr=1_7_7_2300_150_1",
+      "title": "Cthulhu: The Cosmic Abyss - Sanity Skin Pack",
+      "gameId": "Cthulhu: The Cosmic Abyss - Sanity Skin Pack - undefined"
     }
   ]
 }
