@@ -2160,6 +2160,39 @@
       "productUrl": "https://store.steampowered.com/app/4148570/SurrounDead_Poly_Construction/?snr=1_7_7_2300_150_1",
       "title": "SurrounDead Poly Construction",
       "gameId": "SurrounDead Poly Construction - undefined"
+    },
+    {
+      "description": "Deep underground, Gloom Girl discovers DOOMBLADE, a sentient weapon hellbent on escape after eons in chains. Together, “Doom and Gloom” embark on a vengeful quest to unlock the powerful abilities and destroy the Dread Lords once and for all in this 2D Action Metroidvania.",
+      "endDateDiscount": "2026-04-30T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/doomblade-afdf9a",
+      "title": "DOOMBLADE",
+      "gameId": "DOOMBLADE - 1777561200000"
+    },
+    {
+      "description": "Ábrete paso usando fuego y acero para descubrir lo que hay más allá de la Niebla en este juego de 2 horas repletas de acción y plataformas. ¡Prepárate para quemarlo todo!",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1634080/header.jpg?t=1776793447",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1634080/Nocturnal/?snr=1_7_7_2300_150_1",
+      "title": "Nocturnal",
+      "gameId": "Nocturnal - undefined"
+    },
+    {
+      "description": "&quot;8AM&quot; is a suspense game where you find yourself trapped in a room, watching a family through cameras. Without explanations, you must decide if strange events occur night after night. Being correct extends the time, seeking your release by 8:00 a.m.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2835590/header.jpg?t=1776723150",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2835590/8AM/?snr=1_7_7_2300_150_1",
+      "title": "8AM",
+      "gameId": "8AM - undefined"
+    },
+    {
+      "description": "In Aeonic you experience the greatest events in different parts of the planet and beyond in the most important epochs of civilization throughout the whole history from the beginning to nowadays and to the possible futures.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3277530/a0c3f617c7e8f3b50958babae1cf4ebccccf7d18/header.jpg?t=1776893461",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3277530/Aeonic/?snr=1_7_7_2300_150_1",
+      "title": "Aeonic",
+      "gameId": "Aeonic - undefined"
     }
   ]
 }
