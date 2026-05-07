@@ -2219,6 +2219,24 @@
       "productUrl": "https://store.steampowered.com/app/934690/World_of_Warships__Marblehead_Lima/?snr=1_7_7_2300_150_1",
       "title": "World of Warships — Marblehead Lima",
       "gameId": "World of Warships — Marblehead Lima - undefined"
+    },
+    {
+      "description": "Find your way in a world of breezy, thoughtful puzzles, along a charming journey of self-discovery.",
+      "endDateDiscount": "2026-05-14T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/arranger-a-rolepuzzling-adventure-dbfde7",
+      "title": "Arranger: A Role-Puzzling Adventure",
+      "gameId": "Arranger: A Role-Puzzling Adventure - 1778770800000"
+    },
+    {
+      "description": "A wholesome, cosy shopkeeping game with no pressures, no stress, and endless good vibes! Uncover and clean trinkets then upcycle them to sell to endless colourful, quirky customers. Spend your savings to upgrade your shop, buy better tools, plus expand and customise your space.",
+      "endDateDiscount": "2026-05-14T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/trash-goblin-cd5fd7",
+      "title": "Trash Goblin",
+      "gameId": "Trash Goblin - 1778770800000"
     }
   ]
 }
