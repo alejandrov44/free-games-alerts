@@ -2245,6 +2245,14 @@
       "productUrl": "https://store.steampowered.com/app/3353830/LivingBattle/?snr=1_7_7_2300_150_1",
       "title": "LivingBattle",
       "gameId": "LivingBattle - undefined"
+    },
+    {
+      "description": "Faced with difficult tasks, try to challenge the limits.Sometimes need luck to win.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3856040/778e45bf1e3b83f356b7d305f40dae3fecfa98a9/header.jpg?t=1778365883",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3856040/Just_Move_Fall_Dungeon_Endless_Abyss/?snr=1_7_7_2300_150_1",
+      "title": "Just Move Fall Dungeon Endless Abyss",
+      "gameId": "Just Move Fall Dungeon Endless Abyss - undefined"
     }
   ]
 }
