@@ -2253,6 +2253,32 @@
       "productUrl": "https://store.steampowered.com/app/3856040/Just_Move_Fall_Dungeon_Endless_Abyss/?snr=1_7_7_2300_150_1",
       "title": "Just Move Fall Dungeon Endless Abyss",
       "gameId": "Just Move Fall Dungeon Endless Abyss - undefined"
+    },
+    {
+      "description": "The Telltale Batman Shadows Edition",
+      "endDateDiscount": "2026-05-21T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85_2560x1440-8542c9faaf034219973add17b0749b9a",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/the-telltale-batman",
+      "title": "The Telltale Batman Shadows Edition",
+      "gameId": "The Telltale Batman Shadows Edition - 1779375600000"
+    },
+    {
+      "description": "Sunderfolk - Standard Edition",
+      "endDateDiscount": "2026-05-21T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/OfferImageWide_2560x1440-05350f0fffad4da3945dc0871f2d2b24",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/sunderfolk-standard-edition-83c05e",
+      "title": "Sunderfolk - Standard Edition",
+      "gameId": "Sunderfolk - Standard Edition - 1779375600000"
+    },
+    {
+      "description": "Jack Williams, un hombre trabajador de 26 años, finalmente se toma un día libre después de una larga semana de trabajo. Decide pasar el fin de semana en su tranquila cabaña para relajarse. Poco sabía lo que ocurriría durante su estancia allí.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3587490/ad38d7ab0135468d698238d0d06e0e68ea41d49e/header.jpg?t=1778605447",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3587490/Terrors_to_Unveil__Day_Off/?snr=1_7_7_2300_150_1",
+      "title": "Terrors to Unveil - Day Off",
+      "gameId": "Terrors to Unveil - Day Off - undefined"
     }
   ]
 }
