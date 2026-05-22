@@ -2329,6 +2329,22 @@
       "productUrl": "https://store.steampowered.com/app/645630/Car_Mechanic_Simulator_2018/?snr=1_7_7_2300_150_1",
       "title": "Car Mechanic Simulator 2018",
       "gameId": "Car Mechanic Simulator 2018 - undefined"
+    },
+    {
+      "description": "Climb, fall, curse… uh, respawn, pretend it was intentional. Bunny Guys is pure parkour chaos where one wins and everyone else fails spectacularly. Perfect for players who treat suffering, respawning, and “I can do better” as a hobby.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2218460/21bc1a04e1dc28a7a323f7dc4521836f56ad30e3/header.jpg?t=1778711514",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2218460/Bunny_Guys/?snr=1_7_7_2300_150_1",
+      "title": "Bunny Guys!",
+      "gameId": "Bunny Guys! - undefined"
+    },
+    {
+      "description": "Caza los conejitos, carga la catapulta y lánzalos… El Rey exige.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3515620/header.jpg?t=1777999536",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3515620/Bunny_Hurling/?snr=1_7_7_2300_150_1",
+      "title": "Bunny Hurling",
+      "gameId": "Bunny Hurling - undefined"
     }
   ]
 }
