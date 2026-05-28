@@ -2345,6 +2345,32 @@
       "productUrl": "https://store.steampowered.com/app/3515620/Bunny_Hurling/?snr=1_7_7_2300_150_1",
       "title": "Bunny Hurling",
       "gameId": "Bunny Hurling - undefined"
+    },
+    {
+      "description": "LONESTAR",
+      "endDateDiscount": "2026-06-04T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/lonestar-31p94_2560x1440-c6a104de10c14d33854d3018ccf8cc75",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/lonestar-83f143",
+      "title": "LONESTAR",
+      "gameId": "LONESTAR - 1780585200000"
+    },
+    {
+      "description": "Calico",
+      "endDateDiscount": "2026-06-04T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_s2_2560x1440-79182ef9c56c44af95ab38b0a2c46329",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/calico",
+      "title": "Calico",
+      "gameId": "Calico - 1780585200000"
+    },
+    {
+      "description": "Súbete a tu coche favorito y establece récords solo o con tus amigos en este juego arcade único!",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070580/header.jpg?t=1778267414",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1",
+      "title": "Drift86",
+      "gameId": "Drift86 - undefined"
     }
   ]
 }
