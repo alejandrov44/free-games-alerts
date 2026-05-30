@@ -2371,6 +2371,22 @@
       "productUrl": "https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1",
       "title": "Drift86",
       "gameId": "Drift86 - undefined"
+    },
+    {
+      "description": "​Moonrise Fall is an atmospheric exploration puzzle game about a boy who finds himself lost in a supernatural forest after losing both parents in a car crash. Put your detective skills to the test. Unravel the mysteries of the forest and photograph the strange creatures (cryptids) that reside there.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1035110/header.jpg?t=1780107953",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1035110/Moonrise_Fall/?snr=1_7_7_2300_150_1",
+      "title": "Moonrise Fall",
+      "gameId": "Moonrise Fall - undefined"
+    },
+    {
+      "description": "Got strong nerves? Reliable friends? Precise jumps? Then this is the place for you. And if not, try it anyway. It'll be fun. Probably.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3771740/f1c5eaf217c893e9f134251f44a3cac986fb06a2/header.jpg?t=1778708014",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/3771740/IQ_Under_Construction/?snr=1_7_7_2300_150_1",
+      "title": "IQ Under Construction",
+      "gameId": "IQ Under Construction - undefined"
     }
   ]
 }
