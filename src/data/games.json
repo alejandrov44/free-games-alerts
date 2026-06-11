@@ -2429,6 +2429,48 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/songs-of-conquest",
       "title": "Songs of Conquest",
       "gameId": "Songs of Conquest - 1781190000000"
+    },
+    {
+      "description": "The Ouroboros King combines the strategic depth of chess with the build variety and replayability of roguelikes. Assemble a formidable army, discover powerful relics, and buy surprising gadgets to defeat the Coven.",
+      "endDateDiscount": "2026-06-18T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/the-ouroboros-king-e1d547",
+      "title": "The Ouroboros King",
+      "gameId": "The Ouroboros King - 1781794800000"
+    },
+    {
+      "description": "High-octane combat racing in the Warhammer 40,000 universe.",
+      "endDateDiscount": "2026-06-18T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/warhammer-40k-speed-freeks-12879c",
+      "title": "Warhammer 40K Speed Freeks",
+      "gameId": "Warhammer 40K Speed Freeks - 1781794800000"
+    },
+    {
+      "description": "¡Enhorabuena, te han contratado! Atiende a tus clientes y ocúpate del restaurante Happy's Humble Burger Farm por la noche. Pero cuidado; ¡todo se irá al traste si la fastidias! Después de trabajar, vete a casa y busca una forma de escapar de los Barnyard Buds y de sus ansias por la comida rápida.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1433340/bffacca0828f9dd790c7104c85040aa558eab420/header_alt_assets_0.jpg?t=1781202018",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1",
+      "title": "Happy's Humble Burger Farm",
+      "gameId": "Happy's Humble Burger Farm - undefined"
+    },
+    {
+      "description": "The Red Lantern is a narrative, dog sledding game about survival. You play as the Musher who, along with her team of 5 sled dogs, must find her way home. Care for your dogs, discover their stories, and learn how to navigate the unknowns of the Alaskan wilderness and prepare for your new life.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1053710/header.jpg?t=1779363205",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1",
+      "title": "The Red Lantern",
+      "gameId": "The Red Lantern - undefined"
+    },
+    {
+      "description": "Eets may have a cute outer-shell, but its Lemmings meets The Incredible Machine gameplay, crazy characters and over 100 increasingly tricky puzzles quickly sucks in even the most seasoned player.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6100/b97e6e9de18d08941c872fc73abae7c2dc91ccfe/header.jpg?t=1781199005",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/6100/Eets/?snr=1_7_7_2300_150_1",
+      "title": "Eets",
+      "gameId": "Eets - undefined"
     }
   ]
 }
