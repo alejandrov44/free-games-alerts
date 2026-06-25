@@ -2489,6 +2489,24 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/robobeat-5f084b",
       "title": "ROBOBEAT",
       "gameId": "ROBOBEAT - 1782399600000"
+    },
+    {
+      "description": "Build the park of a lifetime and rediscover the critically acclaimed rollercoaster simulation bestseller. Feel the thrill of a genre-defining classic, complete with two huge expansion packs.",
+      "endDateDiscount": "2026-07-02T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/rollercoaster-tycoon-3-complete-edition/home",
+      "title": "RollerCoaster Tycoon 3 Complete Edition",
+      "gameId": "RollerCoaster Tycoon 3 Complete Edition - 1783004400000"
+    },
+    {
+      "description": "Voidwrought is a 2D action-platformer set in a hand-drawn world of cosmic horrors. Explore the thawing ruins of the First Civilisation and strike down the gods that dwell there. Grow your powers, uncover ancient Artifacts, and expand your shrine amid the wreckage.",
+      "endDateDiscount": "2026-07-02T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/voidwrought-ce8f4b",
+      "title": "Voidwrought",
+      "gameId": "Voidwrought - 1783004400000"
     }
   ]
 }
