@@ -2533,6 +2533,24 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/i-have-no-mouth-and-i-must-scream-95c5c2",
       "title": "I Have No Mouth, and I Must Scream",
       "gameId": "I Have No Mouth, and I Must Scream - 1783609200000"
+    },
+    {
+      "description": "Nova Lands is a factory building, exploration, and island management game. Explore, engage in combat, and automate your industry. The planet you’re on is full of mysteries, creatures, people, and things to do. Welcome to your new home amongst the stars!",
+      "endDateDiscount": "2026-07-16T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/nova-lands-4d1788",
+      "title": "Nova Lands",
+      "gameId": "Nova Lands - 1784214000000"
+    },
+    {
+      "description": "Become a tattoo artist and manage your very own tattoo parlor. Find the best designs for your clients, turning their vague ideas into stunning works of body art. Expand from a cozy personal studio into a thriving multi-parlor business across the diverse districts of Tattuga Bay.",
+      "endDateDiscount": "2026-07-16T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/tattoo-tycoon-b4352c",
+      "title": "Tattoo Tycoon",
+      "gameId": "Tattoo Tycoon - 1784214000000"
     }
   ]
 }
