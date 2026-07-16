@@ -2567,6 +2567,24 @@
       "productUrl": "https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1",
       "title": "The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack",
       "gameId": "The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack - undefined"
+    },
+    {
+      "description": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.",
+      "endDateDiscount": "2026-07-23T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/luto-0a4ab3",
+      "title": "Luto",
+      "gameId": "Luto - 1784818800000"
+    },
+    {
+      "description": "Lead a gang of kids to uncover spooky mysteries, battle creatures, and explore the supernatural side of your hometown in Echo Generation, a turn-based adventure set in the 90s.",
+      "endDateDiscount": "2026-07-23T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/echo-generation-midnight-edition-069026",
+      "title": "Echo Generation: Midnight Edition",
+      "gameId": "Echo Generation: Midnight Edition - 1784818800000"
     }
   ]
 }
