@@ -2636,6 +2636,32 @@
       "productUrl": "https://store.steampowered.com/app/606150/Moonlighter/?snr=1_7_7_2300_150_1",
       "title": "Moonlighter",
       "gameId": "Moonlighter - undefined"
+    },
+    {
+      "description": "Beacon Pines is a cute and creepy adventure game. Sneak out late, make new friends, uncover hidden truths, and collect words that will change the course of fate!",
+      "endDateDiscount": "2026-08-13T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/beacon-pines-629fc3",
+      "title": "Beacon Pines",
+      "gameId": "Beacon Pines - 1786633200000"
+    },
+    {
+      "description": "As we explore these frozen wastes, misfortune strikes once again. Through the fierce blizzard, a flare lights the sky, followed by a cry for help over the radio - broken, dying... No one else can come to their rescue. Can we make it back - together?",
+      "endDateDiscount": "2026-08-13T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/we-were-here-together-6a6d66",
+      "title": "We Were Here Together",
+      "gameId": "We Were Here Together - 1786633200000"
+    },
+    {
+      "description": "Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/738520/header.jpg?t=1786122378",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/738520/Breathedge/?snr=1_7_7_2300_150_1",
+      "title": "Breathedge",
+      "gameId": "Breathedge - undefined"
     }
   ]
 }
