@@ -2750,6 +2750,14 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/astral-ascent-b33bc2",
       "title": "Astral Ascent",
       "gameId": "Astral Ascent - 1789657200000"
+    },
+    {
+      "description": "Crystal Crisis es el videojuego de puzzle definitivo. Es una intensa competencia uno contra uno con características innovadoras, presentada con gran animación, efectos especiales, música y diseño de sonido de alta calidad. Con competencia local y en línea!",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447700/header.jpg?t=1789325105",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1",
+      "title": "Crystal Crisis",
+      "gameId": "Crystal Crisis - undefined"
     }
   ]
 }
