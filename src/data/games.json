@@ -2766,6 +2766,32 @@
       "productUrl": "https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1",
       "title": "Space Menace",
       "gameId": "Space Menace - undefined"
+    },
+    {
+      "description": "Mindcop is a non-linear „whodunnit“ detective game. It mixes a story driven adventure with real-time match-3 puzzle. As the infamous Mindcop, you can dive into the minds of your suspects to uncover their secrets and unravel their lies.​",
+      "endDateDiscount": "2026-09-24T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/mindcop-78e6c1",
+      "title": "Mindcop",
+      "gameId": "Mindcop - 1790262000000"
+    },
+    {
+      "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
+      "endDateDiscount": "2026-09-24T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/shogun-showdown-61832d",
+      "title": "Shogun Showdown",
+      "gameId": "Shogun Showdown - 1790262000000"
+    },
+    {
+      "description": "Domina la tormenta con la Descarga, un machete eléctrico recuperado en pleno corazón de Harran. Diseñado como herramienta de destrucción, su hoja cargada chisporrotea con una energía indomable capaz de atravesar y electrocutar a los infectados.",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355480/4f140de54ebd2306321005daaab93a2ba8fc9457/header.jpg?t=1789400832",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1",
+      "title": "Dying Light: The Beast - Discharge Weapon Pack",
+      "gameId": "Dying Light: The Beast - Discharge Weapon Pack - undefined"
     }
   ]
 }
