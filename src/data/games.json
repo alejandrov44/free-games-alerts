@@ -2860,6 +2860,48 @@
       "productUrl": "https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1",
       "title": "Rotwood: Drakin Armoury Pack",
       "gameId": "Rotwood: Drakin Armoury Pack - undefined"
+    },
+    {
+      "description": "You’re Sophie, a young blind girl who sees through her teddy bear’s eyes. Escape your captors and uncover the evil history of the dark mansion you desperately seek to escape in this unique, atmospheric horror puzzle/adventure game.",
+      "endDateDiscount": "2026-10-15T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/out-of-sight-b96ca8",
+      "title": "Out of Sight",
+      "gameId": "Out of Sight - 1792076400000"
+    },
+    {
+      "description": "Build gorgeous kingdoms on floating islands by strategically placing buildings in this cozy, medieval City-Puzzler. Discover secret combinations, take on monthly challenges and explore randomly generated maps in various single- and multiplayer game modes.",
+      "endDateDiscount": "2026-10-15T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/terrascape-2b12b1",
+      "title": "TerraScape",
+      "gameId": "TerraScape - 1792076400000"
+    },
+    {
+      "description": "Pony Island es un juego de puzzles y suspense aparentemente inocente. Estás en el limbo, atrapado en una malévola máquina de arcade defectuosa diseñada por el mismísimo diablo. No es un juego sobre ponis.",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405640/header.jpg?t=1791477267",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/405640/Pony_Island/?snr=1_7_7_2300_150_1",
+      "title": "Pony Island",
+      "gameId": "Pony Island - undefined"
+    },
+    {
+      "description": "El crucero panasiático Ning Hai destaca por sus cañones formidables de largo alcance y disparo rápido, así como por su armamento de torpedos potente.",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2283211/b1178bba54985943e6255fae53261a6155f9167f/header.jpg?t=1791477152",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai/?snr=1_7_7_2300_150_1",
+      "title": "World of Warships — Ning Hai",
+      "gameId": "World of Warships — Ning Hai - undefined"
+    },
+    {
+      "description": "Hazte con el Gear.Club Signature Pack y disfruta de dos libreas exclusivas: el Honda S2000 GCU3 Edition y el BMW Z4 GCU Edition. Inspirándose en la cultura japonesa, ¡transformarán tus coches en auténticas obras de arte!",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114140/fb5a08bd84be36ce0979e83c12352b1713576454/header.jpg?t=1791446575",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1",
+      "title": "Gear.Club Unlimited 3 - Gear.Club Signature Pack",
+      "gameId": "Gear.Club Unlimited 3 - Gear.Club Signature Pack - undefined"
     }
   ]
 }
