@@ -2902,6 +2902,14 @@
       "productUrl": "https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1",
       "title": "Gear.Club Unlimited 3 - Gear.Club Signature Pack",
       "gameId": "Gear.Club Unlimited 3 - Gear.Club Signature Pack - undefined"
+    },
+    {
+      "description": "Un juego basado en compartir y escuchar historias y emociones. Incarna a un adorable personaje, crea tu refugio de paz y únete a la fogata para ser parte de una hermosa historia colectiva. Todos necesitamos una conversación bajo las estrellas.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2990600/89d745fd5604055c7b68b44ed28eba5b7df89d58/header.jpg?t=1789504567",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/2990600/Fireside_Feelings/?snr=1_7_7_2300_150_1",
+      "title": "Fireside Feelings",
+      "gameId": "Fireside Feelings - undefined"
     }
   ]
 }
