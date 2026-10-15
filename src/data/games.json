@@ -2918,6 +2918,32 @@
       "productUrl": "https://store.steampowered.com/app/5007040/Voidtrain__Big_Catch/?snr=1_7_7_2300_150_1",
       "title": "Voidtrain - Big Catch",
       "gameId": "Voidtrain - Big Catch - undefined"
+    },
+    {
+      "description": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. \nStep into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. \nBe on your best behavior and KEEP DADDY HAPPY.",
+      "endDateDiscount": "2026-10-22T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/bad-cheese-4256d9",
+      "title": "Bad Cheese",
+      "gameId": "Bad Cheese - 1792681200000"
+    },
+    {
+      "description": "A suave secret agent adventure game. Your mission (should you choose to accept) is to infiltrate enemy spy Ruby La Rouge’s secret hideaway and put a stop to her evil plans!",
+      "endDateDiscount": "2026-10-22T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/agent-a-a-puzzle-in-disguise-42fe5f",
+      "title": "Agent A: A puzzle in disguise",
+      "gameId": "Agent A: A puzzle in disguise - 1792681200000"
+    },
+    {
+      "description": "This pack contains 5 woodland weapon skins for the USMC faction.",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841320/6499eba31da772a3f68b9f73443e16ffe49dd61e/header.jpg?t=1792087188",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/4841320/Squad_Weapon_Skins__Recon_Team_Pack/?snr=1_7_7_2300_150_1",
+      "title": "Squad Weapon Skins - Recon Team Pack ",
+      "gameId": "Squad Weapon Skins - Recon Team Pack  - undefined"
     }
   ]
 }
