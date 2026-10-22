@@ -2944,6 +2944,32 @@
       "productUrl": "https://store.steampowered.com/app/4841320/Squad_Weapon_Skins__Recon_Team_Pack/?snr=1_7_7_2300_150_1",
       "title": "Squad Weapon Skins - Recon Team Pack ",
       "gameId": "Squad Weapon Skins - Recon Team Pack  - undefined"
+    },
+    {
+      "description": "The round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.",
+      "endDateDiscount": "2026-10-29T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/sker-ritual-aac702",
+      "title": "Sker Ritual",
+      "gameId": "Sker Ritual - 1793286000000"
+    },
+    {
+      "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
+      "endDateDiscount": "2026-10-29T15:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/home-19212a",
+      "title": "Home - A Unique Horror Adventure",
+      "gameId": "Home - A Unique Horror Adventure - 1793286000000"
+    },
+    {
+      "description": "Expand your cinema with a leisure district featuring a pizzeria, beach club, restaurant, ice cream café, arcade, bowling, mini golf, stage and event hall. Upgrade businesses, manage your investment and collect parking fees, with real financial risks as well as opportunities.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5340370/843485bcea45d0475504553f148de79e2cdf2da8/header.jpg?t=1792688582",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_1",
+      "title": "Popcorn & Premieren - Ausgehviertel",
+      "gameId": "Popcorn & Premieren - Ausgehviertel - undefined"
     }
   ]
 }
