@@ -2970,6 +2970,22 @@
       "productUrl": "https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_1",
       "title": "Popcorn & Premieren - Ausgehviertel",
       "gameId": "Popcorn & Premieren - Ausgehviertel - undefined"
+    },
+    {
+      "description": "Relajante rompecabezas con gráficos y reglas nuevas inspiradas en Sudoku",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/785890/Hexologic/?snr=1_7_7_2300_150_1",
+      "title": "Hexologic",
+      "gameId": "Hexologic - undefined"
+    },
+    {
+      "description": "¡Este juego de mundo abierto te permite vivir la emoción de la caza, con tu fiel perro a tu lado! Elige tu equipo entre las marcas oficiales y explora la naturaleza en busca de tu próxima presa.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693960/d37423b5b7941444dfe63d8b185ed680ff03009d/header.jpg?t=1793269525",
+      "platform": "Steam",
+      "productUrl": "https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_2",
+      "title": "Hunting Simulator 3 - Classic American Hunter Pack",
+      "gameId": "Hunting Simulator 3 - Classic American Hunter Pack - undefined"
     }
   ]
 }
