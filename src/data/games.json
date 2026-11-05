@@ -3003,6 +3003,24 @@
       "productUrl": "https://store.epicgames.com/es-ES/p/sorry-were-closed-724c86",
       "title": "Sorry We're Closed",
       "gameId": "Sorry We're Closed - 1793894400000"
+    },
+    {
+      "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
+      "endDateDiscount": "2026-11-12T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/idle-champions-of-the-forgotten-realms",
+      "title": "Idle Champions of the Forgotten Realms",
+      "gameId": "Idle Champions of the Forgotten Realms - 1794499200000"
+    },
+    {
+      "description": "The floating garbage town survival game! Scavenge what precious garbage you can from the ocean's surface and grow your city while doing your best to survive in this colorful post-apocalyptic world.",
+      "endDateDiscount": "2026-11-12T16:00:00.000Z",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg",
+      "platform": "Epic Games",
+      "productUrl": "https://store.epicgames.com/es-ES/p/flotsam-266287",
+      "title": "Flotsam",
+      "gameId": "Flotsam - 1794499200000"
     }
   ]
 }
