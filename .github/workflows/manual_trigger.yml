@@ -13,7 +13,6 @@ on:
         type: string
       TELEGRAM_BOT_TOKEN:
         description: "TELEGRAM_BOT_TOKEN"
-        required: true
         type: string
 
 jobs:
