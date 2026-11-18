@@ -12,7 +12,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [20]
+        node-version: [24]
 
     steps:
       - run: echo "🎉 The job was triggered by a ${{ github.event_name }} event."
