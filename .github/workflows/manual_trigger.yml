@@ -11,6 +11,10 @@ on:
         description: "DISCORD_WEBHOOK_ID"
         required: true
         type: string
+      TELEGRAM_BOT_TOKEN:
+        description: "TELEGRAM_BOT_TOKEN"
+        required: true
+        type: string
 
 jobs:
   run-script:
